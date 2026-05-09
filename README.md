@@ -1,2 +1,2 @@
-# armory-data
-Data container for Armory App
+# Armory App CDN
+This repository hosts the localized assets and manifests for the Aegis Slipstream update system.
