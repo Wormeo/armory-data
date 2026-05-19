@@ -490,13 +490,13 @@
 		"id" : 83,
 		"game" : "BO7",
 		"class_type" : "CLOSE RANGE (WZ)",
-		"weapon" : "2. VST"
+		"weapon" : "2. CARBON 57"
 	},
 	{
 		"id" : 84,
 		"game" : "BO7",
 		"class_type" : "CLOSE RANGE (WZ)",
-		"weapon" : "3. CARBON 57"
+		"weapon" : "3. VST"
 	},
 	{
 		"id" : 85,
@@ -514,7 +514,7 @@
 		"id" : 87,
 		"game" : "BO7",
 		"class_type" : "LONG RANGE (WZ)",
-		"weapon" : "1. VOYAK KT-3"
+		"weapon" : "1. MK.78"
 	},
 	{
 		"id" : 88,
@@ -526,18 +526,18 @@
 		"id" : 89,
 		"game" : "BO7",
 		"class_type" : "LONG RANGE (WZ)",
-		"weapon" : "3. MXR-17"
+		"weapon" : "3. VOYAK KT-3"
 	},
 	{
 		"id" : 90,
 		"game" : "BO7",
 		"class_type" : "LONG RANGE (WZ)",
-		"weapon" : "4. MK.78"
+		"weapon" : "4. MXR-17"
 	},
 	{
 		"id" : 91,
 		"game" : "BO7",
 		"class_type" : "LONG RANGE (WZ)",
-		"weapon" : "5. AK-27"
+		"weapon" : "5. MK35 ISR"
 	}
 ]}
