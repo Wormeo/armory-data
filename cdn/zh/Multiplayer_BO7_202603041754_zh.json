@@ -443,5 +443,25 @@
 		"attach_5" : "快速枪栓模组",
 		"recommended_sight_shooting_style" : null,
 		"build_code" : "R07-3YFX7-KB11"
-	}
+	},
+    {
+        "id" : 42,
+        "weapon_name": "KRS-7.62",
+        "attach_1": "REDWELL 7.62 制退器枪口",
+        "attach_2": "16.5\" VAS ALLAY 枪管",
+        "attach_3": "7.62 NATO 高压弹药",
+        "attach_4": "VERITY 快速弹匣",
+        "attach_5": "瞄准镜",
+        "recommended_sight_shooting_style": "FANG HOVERPOINT ELO 准镜"
+    },
+    {
+        "id" : 43,
+        "weapon_name": "CBRS-3",
+        "attach_1": "14\" RAKE 枪管",
+        "attach_2": "侧向精确下挂配件",
+        "attach_3": "SQUALL 控制后握把",
+        "attach_4": "MFS 轮转快速弹匣",
+        "attach_5": "枪机容纳组改装",
+        "recommended_sight_shooting_style": null
+    }
 ]}

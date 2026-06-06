@@ -599,5 +599,31 @@
 		"attach_8" : "瞄具",
 		"recommended_sight_shooting_style" : "致命工具 ELO",
 		"build_code" : "R07-691TP-FVIS1-1"
-	}
+	},
+    {
+        "id" : 44,
+        "weapon_name": "KRS-7.62",
+        "attach_1": "16.5\" VAS ALLAY 枪管",
+        "attach_2": "VAS 聚合下挂配件",
+        "attach_3": "PERCY-V 增高托腮板",
+        "attach_4": "VERITY 快速弹匣",
+        "attach_5": "EPONA-21 枪托",
+        "attach_6": "3MW 动态突击激光",
+        "attach_7": "7.62 NATO 高压弹药",
+        "attach_8": "瞄准镜",
+        "recommended_sight_shooting_style": "FANG HOVERPOINT ELO 准镜"
+    },
+    {
+        "id" : 45,
+        "weapon_name": "CBRS-3",
+        "attach_1": "HAWKER 混合 .45 枪口配件",
+        "attach_2": "14\" RAKE 枪管",
+        "attach_3": "SAPPER 下挂护木",
+        "attach_4": "MFS 轮转快速弹匣",
+        "attach_5": "ANTE 后握把",
+        "attach_6": "CASINO 轻型枪托",
+        "attach_7": "EAM SCATTERLINE 激光",
+        "attach_8": "枪机容纳组改装",
+        "recommended_sight_shooting_style": null
+    }
 ]}

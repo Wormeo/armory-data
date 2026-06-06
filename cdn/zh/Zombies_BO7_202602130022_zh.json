@@ -599,5 +599,31 @@
 		"attach_8" : "瞄具",
 		"recommended_sight_shooting_style" : "LETHAL TOOLS ELO 瞄准镜",
 		"build_code" : "R07-691TP-FVJ91-1"
-	}
+	},
+    {
+        "id" : 45,
+        "weapon_name": "KRS-7.62",
+        "attach_1": "GREAVES A-762 消音器",
+        "attach_2": "14.7\" K&S HARTHA 枪管",
+        "attach_3": "VAS 聚合下挂配件",
+        "attach_4": "VERITY 快速弹匣",
+        "attach_5": "PERCY-V 增高托腮板",
+        "attach_6": "EPONA-21 枪托",
+        "attach_7": "3MW 动态突击激光",
+        "attach_8": "7.62 NATO 全金属披甲弹",
+        "recommended_sight_shooting_style": null
+    },
+    {
+        "id" : 46,
+        "weapon_name": "CBRS-3",
+        "attach_1": "BOWEN 9MM 消音器",
+        "attach_2": "13.7\" LTI SUBDUE 枪管",
+        "attach_3": "SAPPER 下挂护木",
+        "attach_4": "MFS 轮转快速弹匣",
+        "attach_5": "ANTE 后握把",
+        "attach_6": "CASINO 轻型枪托",
+        "attach_7": "聚合方块激光",
+        "attach_8": "9MM 帕拉贝鲁姆全金属披甲弹",
+        "recommended_sight_shooting_style": null
+    }
 ]}
