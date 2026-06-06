@@ -586,7 +586,7 @@
 		"build_code" : "P07-2JD6P-5XB6H-XB11"
 	},
 	{
-		"id" : 43,
+	    "id" : 43,
 		"weapon_name" : "STRIDER 300",
 		"weapon_id" : 4,
 		"attach_1" : "SILENCIADOR GREAVES A-762",
@@ -599,5 +599,31 @@
 		"attach_8" : "MIRA",
 		"recommended_sight_shooting_style" : "LETHAL TOOLS ELO",
 		"build_code" : "R07-691TP-FVIS1-1"
-	}
+	},
+    {
+        "id" : 44,
+        "weapon_name": "KRS-7.62",
+        "attach_1": "CAÑÓN VAS ALLAY DE 16.5\"",
+        "attach_2": "ACOPLE DE CONVERGENCIA VAS",
+        "attach_3": "ALZA ELEVADA PERCY-V",
+        "attach_4": "CARGADOR RÁPIDO VERITY",
+        "attach_5": "CULATA EPONA-21",
+        "attach_6": "LÁSER DE IMPACTO EN MOVIMIENTO 3MW",
+        "attach_7": "MUNICIÓN SOBRECOMPRIMIDA 7.62 NATO",
+        "attach_8": "MIRA",
+        "recommended_sight_shooting_style": "MIRA RÉFLEX FANG HOVERPOINT"
+    }, 
+    {
+        "id" : 45,
+        "weapon_name": "CBRS-3",
+        "attach_1": "BOUCHE HAWKER HYBRIDE .45",
+        "attach_2": "CANON RAKE 14\"",
+        "attach_3": "GARDE SAPPER SOUS-CANON",
+        "attach_4": "CHARGEUR RAPIDE CAROUSEL MFS",
+        "attach_5": "POIGNÉE ARRIÈRE ANTE",
+        "attach_6": "CROSSE LÉGÈRE CASINO",
+        "attach_7": "LASER EAM SCATTERLINE",
+        "attach_8": "MODIFICATION DU GROUPE TRANSITION DE CULASSE",
+        "recommended_sight_shooting_style": null
+    }
 ]}

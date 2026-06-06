@@ -599,5 +599,31 @@
 		"attach_8" : "MIRA",
 		"recommended_sight_shooting_style" : "MIRA ELO LETHAL TOOLS",
 		"build_code" : "R07-691TP-FVJ91-1"
-	}
+	},
+    {
+        "id" : 45,
+        "weapon_name": "KRS-7.62",
+        "attach_1": "SILENCIADOR GREAVES A-762",
+        "attach_2": "CAÑÓN K&S HARTHA DE 14.7\"",
+        "attach_3": "ACOPLE DE CONVERGENCIA VAS",
+        "attach_4": "CARGADOR RÁPIDO VERITY",
+        "attach_5": "ALZA ELEVADA PERCY-V",
+        "attach_6": "CULATA EPONA-21",
+        "attach_7": "LÁSER DE IMPACTO EN MOVIMIENTO 3MW",
+        "attach_8": "MUNICIÓN BLINDADA 7.62 NATO",
+        "recommended_sight_shooting_style": null
+    },
+    {
+        "id" : 46,
+        "weapon_name": "CBRS-3",
+        "attach_1": "SILENCIADOR BOWEN 9MM",
+        "attach_2": "CAÑÓN LTI SUBDUE DE 13.7\"",
+        "attach_3": "ACOPLE DE GUARDAMANOS SAPPER",
+        "attach_4": "CARGADOR RÁPIDO ROTATIVO MFS",
+        "attach_5": "EMPUÑADURA TRASERA ANTE",
+        "attach_6": "CULATA LIGERA CASINO",
+        "attach_7": "LÁSER DE CAJÓN DE CONVERGENCIA",
+        "attach_8": "MUNICIÓN BLINDADA 9MM PARABELLUM",
+        "recommended_sight_shooting_style": null
+    }
 ]}

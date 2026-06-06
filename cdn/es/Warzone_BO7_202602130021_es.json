@@ -527,5 +527,25 @@
 		"attach_5" : "EMPUÑADURA TRASERA HATCH QUICK",
 		"recommended_sight_shooting_style" : null,
 		"build_code" : "R07-3YHFV-IB11"
-	}
+	},
+    {
+        "id" : 45,
+        "weapon_name": "KRS-7.62",
+        "attach_1": "SILENCIADOR GREAVES A-762",
+        "attach_2": "CAÑÓN BOWEN ASBURY DE 15.9\"",
+        "attach_3": "MUNICIÓN SOBRECOMPRIMIDA 7.62 NATO",
+        "attach_4": "CARGADOR RÁPIDO VERITY",
+        "attach_5": "MIRA",
+        "recommended_sight_shooting_style": "MIRA DE DOBLE ZOOM EAM"
+    },
+    {
+        "id" : 46,
+        "weapon_name": "CBRS-3",
+        "attach_1": "SILENCIADOR BOWEN 9MM",
+        "attach_2": "CAÑÓN RAKE DE 14\"",
+        "attach_3": "ACOPLE DE GUARDAMANOS SAPPER",
+        "attach_4": "CARGADOR RÁPIDO ROTATIVO MFS",
+        "attach_5": "CULATA LIGERA CASINO",
+        "recommended_sight_shooting_style": null
+    }
 ]}

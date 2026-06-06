@@ -443,5 +443,25 @@
 		"attach_5" : "MOD. DE CERROJO RÁPIDO",
 		"recommended_sight_shooting_style" : null,
 		"build_code" : "R07-3YFX7-KB11"
-	}
+	},
+    {
+        "id" : 42,
+        "weapon_name": "KRS-7.62",
+        "attach_1": "FRENO DE BOCA REDWELL 7.62",
+        "attach_2": "CAÑÓN VAS ALLAY DE 16.5\"",
+        "attach_3": "MUNICIÓN SOBRECOMPRIMIDA 7.62 NATO",
+        "attach_4": "CARGADOR RÁPIDO VERITY",
+        "attach_5": "MIRA",
+        "recommended_sight_shooting_style": "MIRA RÉFLEX FANG HOVERPOINT"
+    },
+    {
+        "id" : 43,
+        "weapon_name": "CBRS-3",
+        "attach_1": "CAÑÓN RAKE DE 14\"",
+        "attach_2": "ACOPLE DE PRECISIÓN LATERAL",
+        "attach_3": "EMPUÑADURA TRASERA DE CONTROL SQUALL",
+        "attach_4": "CARGADOR RÁPIDO ROTATIVO MFS",
+        "attach_5": "MODIFICACIÓN DEL CONJUNTO DEL CIERRE",
+        "recommended_sight_shooting_style": null
+    }
 ]}
