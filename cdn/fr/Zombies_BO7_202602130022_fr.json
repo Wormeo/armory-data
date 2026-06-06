@@ -599,5 +599,31 @@
 		"attach_8" : "VISEUR",
 		"recommended_sight_shooting_style" : "VISEUR ELO LETHAL TOOLS",
 		"build_code" : "R07-691TP-FVJ91-1"
-	}
+	},
+    {
+        "id" : 45,
+        "weapon_name": "KRS-7.62",
+        "attach_1": "SILENCIEUX GREAVES A-762",
+        "attach_2": "CANON K&S HARTHA 14,7\"",
+        "attach_3": "SOUS-CANON CONVERGENCE VAS",
+        "attach_4": "CHARGEUR RAPIDE VERITY",
+        "attach_5": "APPUI-JOUE ÉLEVÉ PERCY-V",
+        "attach_6": "CROSSE EPONA-21",
+        "attach_7": "LASER DE FRAPPE EN MOUVEMENT 3MW",
+        "attach_8": "MUNITIONS BLINDÉES 7.62 NATO",
+        "recommended_sight_shooting_style": null
+    },
+    {
+        "id" : 46,
+        "weapon_name": "CBRS-3",
+        "attach_1": "SILENCIEUX BOWEN 9MM",
+        "attach_2": "CANON LTI SUBDUE 13,7\"",
+        "attach_3": "GARDE SAPPER SOUS-CANON",
+        "attach_4": "CHARGEUR RAPIDE CAROUSEL MFS",
+        "attach_5": "POIGNÉE ARRIÈRE ANTE",
+        "attach_6": "CROSSE LÉGÈRE CASINO",
+        "attach_7": "LASER BOÎTIER CONVERGENCE",
+        "attach_8": "MUNITIONS BLINDÉES 9MM PARABELLUM",
+        "recommended_sight_shooting_style": null
+    }
 ]}

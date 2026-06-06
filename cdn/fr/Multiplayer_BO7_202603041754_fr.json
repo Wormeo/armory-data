@@ -443,5 +443,25 @@
 		"attach_5" : "MOD VERROU RAPIDE",
 		"recommended_sight_shooting_style" : null,
 		"build_code" : "R07-3YFX7-KB11"
-	}
+	},
+    {
+        "id" : 42,
+        "weapon_name": "KRS-7.62",
+        "attach_1": "FREIN DE BOUCHE REDWELL 7.62",
+        "attach_2": "CANON VAS ALLAY 16,5\"",
+        "attach_3": "MUNITIONS SURPRESSION 7.62 NATO",
+        "attach_4": "CHARGEUR RAPIDE VERITY",
+        "attach_5": "VISEUR",
+        "recommended_sight_shooting_style": "VISEUR POINT ROUGE FANG HOVERPOINT"
+    },
+    {
+        "id" : 43,
+        "weapon_name": "CBRS-3",
+        "attach_1": "CANON RAKE 14\"",
+        "attach_2": "SOUS-CANON PRÉCISION LATÉRALE",
+        "attach_3": "POIGNÉE ARRIÈRE DE CONTRÔLE SQUALL",
+        "attach_4": "CHARGEUR RAPIDE CAROUSEL MFS",
+        "attach_5": "MODIFICATION DU GROUPE TRANSITION DE CULASSE",
+        "recommended_sight_shooting_style": null
+    }
 ]}

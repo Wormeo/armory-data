@@ -527,5 +527,25 @@
 		"attach_5" : "POIGNÉE ARRIÈRE RAPIDE HATCH",
 		"recommended_sight_shooting_style" : null,
 		"build_code" : "R07-3YHFV-IB11"
-	}
+	},
+    {
+        "id" : 45,
+        "weapon_name": "KRS-7.62",
+        "attach_1": "SILENCIEUX GREAVES A-762",
+        "attach_2": "CANON BOWEN ASBURY 15,9\"",
+        "attach_3": "MUNITIONS SURPRESSION 7.62 NATO",
+        "attach_4": "CHARGEUR RAPIDE VERITY",
+        "attach_5": "VISEUR",
+        "recommended_sight_shooting_style": "VISEUR DOUBLE ZOOM EAM"
+    },
+    {
+        "id" : 46,
+        "weapon_name": "CBRS-3",
+        "attach_1": "SILENCIEUX BOWEN 9MM",
+        "attach_2": "CANON RAKE 14\"",
+        "attach_3": "GARDE SAPPER SOUS-CANON",
+        "attach_4": "CHARGEUR RAPIDE CAROUSEL MFS",
+        "attach_5": "CROSSE LÉGÈRE CASINO",
+        "recommended_sight_shooting_style": null
+    }
 ]}

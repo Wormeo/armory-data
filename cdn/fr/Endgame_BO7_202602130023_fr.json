@@ -599,5 +599,31 @@
 		"attach_8" : "VISEUR",
 		"recommended_sight_shooting_style" : "LETHAL TOOLS ELO",
 		"build_code" : "R07-691TP-FVIS1-1"
-	}
+	},
+    {
+        "id" : 44,
+        "weapon_name": "KRS-7.62",
+        "attach_1": "CANON VAS ALLAY 16,5\"",
+        "attach_2": "SOUS-CANON CONVERGENCE VAS",
+        "attach_3": "APPUI-JOUE ÉLEVÉ PERCY-V",
+        "attach_4": "CHARGEUR RAPIDE VERITY",
+        "attach_5": "CROSSE EPONA-21",
+        "attach_6": "LASER DE FRAPPE EN MOUVEMENT 3MW",
+        "attach_7": "MUNITIONS SURPRESSION 7.62 NATO",
+        "attach_8": "VISEUR",
+        "recommended_sight_shooting_style": "VISEUR POINT ROUGE FANG HOVERPOINT"
+    },
+    {
+        "id" : 45,
+        "weapon_name": "CBRS-3",
+        "attach_1": "BOUCHE HAWKER HYBRIDE .45",
+        "attach_2": "CANON RAKE 14\"",
+        "attach_3": "GARDE SAPPER SOUS-CANON",
+        "attach_4": "CHARGEUR RAPIDE CAROUSEL MFS",
+        "attach_5": "POIGNÉE ARRIÈRE ANTE",
+        "attach_6": "CROSSE LÉGÈRE CASINO",
+        "attach_7": "LASER EAM SCATTERLINE",
+        "attach_8": "MODIFICATION DU GROUPE TRANSITION DE CULASSE",
+        "recommended_sight_shooting_style": null
+    }
 ]}
