@@ -1877,5 +1877,17 @@
 		"weapon_name" : "STRIDER 300",
 		"weapon_image" : "https:\/\/res.cloudinary.com\/dctlpj7fg\/image\/upload\/v1777584001\/STRIDER_yu2brb.png",
 		"game_image" : "https:\/\/res.cloudinary.com\/dctlpj7fg\/image\/upload\/v1763257596\/BO7_mzvevs.png"
+	},
+	{
+		"id" : 314,
+		"weapon_name" : "KRS-7.62",
+		"weapon_image" : "https:\/\/res.cloudinary.com\/dctlpj7fg\/image\/upload\/v1780701297\/KRS_i523x3.png",
+		"game_image" : "https:\/\/res.cloudinary.com\/dctlpj7fg\/image\/upload\/v1763257596\/BO7_mzvevs.png"
+	},
+	{
+		"id" : 315,
+		"weapon_name" : "CBRS-3",
+		"weapon_image" : "https:\/\/res.cloudinary.com\/dctlpj7fg\/image\/upload\/v1780701297\/CBRS_r3ivw6.png",
+		"game_image" : "https:\/\/res.cloudinary.com\/dctlpj7fg\/image\/upload\/v1763257596\/BO7_mzvevs.png"
 	}
 ]}

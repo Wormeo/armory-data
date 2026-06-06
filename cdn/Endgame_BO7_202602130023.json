@@ -141,7 +141,7 @@
 		"weapon_id" : 4,
 		"attach_1" : "FANG MODIFIED CHOKE MUZZLE",
 		"attach_2" : "14\" RETRIEVER BARREL",
-		"attach_3" : "SAPPER UNDERBARREL",
+		"attach_3" : "SAPPER GUARD UNDERBARREL",
 		"attach_4" : "SHELL CARRIER EXTENDED MAG",
 		"attach_5" : "S-47 RESPONSE REAR GRIP",
 		"attach_6" : "MOBILE SECURITY STOCK",
@@ -201,7 +201,7 @@
 		"weapon_id" : 4,
 		"attach_1" : "KUHN PORTED COMP MUZZLE",
 		"attach_2" : "11\" GREAVES REPOSE BARREL",
-		"attach_3" : "SAPPER UNDERBARREL",
+		"attach_3" : "SAPPER  GUARD UNDERBARREL",
 		"attach_4" : "BOWEN SIDELINE EXTENDED MAG",
 		"attach_5" : "DULCET CONTROL REAR GRIP",
 		"attach_6" : "OBERON TACTICAL STOCK",
@@ -599,5 +599,35 @@
 		"attach_8" : "SIGHT",
 		"recommended_sight_shooting_style" : "LETHAL TOOLS ELO",
 		"build_code" : "R07-691TP-FVIS1-1"
+	},
+	{
+		"id" : 44,
+		"weapon_name" : "KRS-7.62",
+		"weapon_id" : 4,
+		"attach_1" : "16.5\" VAS ALLAY BARRE;",
+		"attach_2" : "VAS CONVERGENCE UNDERBARREL",
+		"attach_3" : "PERCY-V RISER COMB",
+		"attach_4" : "VERITY QUICK MAG",
+		"attach_5" : "EPONA-21 STOCK",
+		"attach_6" : "3MW MOTION STRIKE LASER",
+		"attach_7" : "7.62 NATO OVERPRESSURED ROUNDS",
+		"attach_8" : "SIGHT",
+		"recommended_sight_shooting_style" : "FANG HOVERPOINT ELO",
+		"build_code" : "M07-2JEZC-DVEK5-5H11"
+	},
+	{
+		"id" : 45,
+		"weapon_name" : "CBRS-3",
+		"weapon_id" : 4,
+		"attach_1" : "HAWKER HYBRID .45 MUZZLE",
+		"attach_2" : "14\" RAKE BARREL",
+		"attach_3" : "SAPPER GUARD UNDERBARREL",
+		"attach_4" : "MFS CAROUSEL FAST MAG",
+		"attach_5" : "ANTE REAR GRIP",
+		"attach_6" : "CASINO LIGHT STOCK",
+		"attach_7" : "EAM SCATTERLINE LASER",
+		"attach_8" : "BOLT CARRIER GROUP MOD",
+		"recommended_sight_shooting_style" : null,
+		"build_code" : "S15-91TUU-FB511"
 	}
 ]}

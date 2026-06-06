@@ -443,5 +443,29 @@
 		"attach_5" : "QUICK BOLT MOD",
 		"recommended_sight_shooting_style" : null,
 		"build_code" : "R07-3YFX7-KB11"
+	},
+	{
+		"id" : 42,
+		"weapon_name" : "KRS-7.62",
+		"weapon_id" : 1,
+		"attach_1" : "REDWELL 7.62 BRAKE MUZZLE",
+		"attach_2" : "16.5\" VAS ALLAY BARREL",
+		"attach_3" : "7.62 NATO OVERPRESSURED ROUNDS",
+		"attach_4" : "VERITY QUICK MAG",
+		"attach_5" : "SIGHT",
+		"recommended_sight_shooting_style" : "FANG HOVERPOINT ELO",
+		"build_code" : "M07-2JEZ9-IB4U1-5Q11"
+	},
+	{
+		"id" : 43,
+		"weapon_name" : "CBRS-3",
+		"weapon_id" : 1,
+		"attach_1" : "14\" RAKE BARREL",
+		"attach_2" : "LATERAL PRECISION UNDERBARREL",
+		"attach_3" : "SQUALL CONTROL REAR GRIP",
+		"attach_4" : "MFS CAROUSEL FAST MAG",
+		"attach_5" : "BOLT CARRIER GROUP MOD",
+		"recommended_sight_shooting_style" : null,
+		"build_code" : "S15-858VL-L111"
 	}
 ]}
