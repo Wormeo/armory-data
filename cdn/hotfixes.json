@@ -1,9 +1,10 @@
 {
-  "patch_date": "JUNE 6",
-  "version": "2.7.2",
+  "patch_date": "JUNE 10",
+  "version": "2.8.0",
   "notes": [
     "UPDATED VARIOUS WEAPON STATS",
     "UPDATED VARIOUS WARZONE CLASSES",
-    "ADDED CLASSES AND CAD DATA FOR CBRS-3, KRS-7.62"
+    "ADDED CLASSES AND CAD DATA FOR CBRS-3, KRS-7.62",
+    "PUSHED UPDATE 2.8.0 — FIXING VARIOUS ISSUES. SEE PATCH NOTES FOR MORE DETAILS"
   ]
 }
