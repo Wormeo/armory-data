@@ -2863,12 +2863,12 @@
 	{
 		"id" : 225,
 		"weapon_name" : "1911 (BO7)",
-		"ttk1" : "600",
+		"ttk1" : "600MS",
 		"range1" : "30M",
 		"ads_speed" : "150MS",
 		"bullet_velocity" : "517.5",
 		"shots_to_kill" : "5 - 7",
-		"ttk2" : "900",
+		"ttk2" : "900MS",
 		"range2" : "30M",
 		"hitscan_range" : "26M",
 		"shot_range" : null
