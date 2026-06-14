@@ -625,5 +625,20 @@
         "attach_7": "聚合方块激光",
         "attach_8": "9MM 帕拉贝鲁姆全金属披甲弹",
         "recommended_sight_shooting_style": null
+    },
+    {
+	    "id" : 47,
+	    "weapon_name" : "VX COMPACT",
+	    "weapon_id" : 3,
+	    "attach_1" : "VAS 5.56 消音器",
+	    "attach_2" : "13\" PROMONTORY 枪管",
+	    "attach_3" : "M335-X 爆破织物 \/ FLOWGUARD 下挂配件",
+	    "attach_4" : "MFS IMPETUS 快速弹匣",
+	    "attach_5" : "LTI BULFORD 后握把",
+	    "attach_6" : "LACTIC 轻型枪托",
+	    "attach_7" : "EAM SCATTERLINE 激光",
+	    "attach_8" : "5.7X28MM 全金属披甲弹",
+	    "recommended_sight_shooting_style" : null,
+	    "build_code" : "A14-22GC6-GTV7S-CS11"
     }
 ]}

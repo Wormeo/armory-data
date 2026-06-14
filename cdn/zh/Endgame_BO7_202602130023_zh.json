@@ -625,5 +625,20 @@
         "attach_7": "EAM SCATTERLINE 激光",
         "attach_8": "枪机容纳组改装",
         "recommended_sight_shooting_style": null
+    },
+    {
+	    "id" : 46,
+	    "weapon_name" : "VX COMPACT",
+	    "weapon_id" : 4,
+	    "attach_1" : "REDWELL 5.56 补偿器枪口",
+	    "attach_2" : "15\" BOWEN ELARA 枪管",
+	    "attach_3" : "FLOWGUARD 下挂配件",
+	    "attach_4" : "MFS IMPETUS 快速弹匣",
+	    "attach_5" : "LTI BULFORD 后握把",
+	    "attach_6" : "LACTIC 轻型枪托",
+	    "attach_7" : "EAM SCATTERLINE 激光",
+	    "attach_8" : "5.7X28MM 高压弹药",
+	    "recommended_sight_shooting_style" : null,
+	    "build_code" : "A14-2JD6X-6H942-A311"
     }
 ]}

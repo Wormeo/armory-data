@@ -463,5 +463,17 @@
         "attach_4": "MFS 轮转快速弹匣",
         "attach_5": "枪机容纳组改装",
         "recommended_sight_shooting_style": null
+    },
+    {
+	    "id" : 44,
+	    "weapon_name" : "VX COMPACT",
+	    "weapon_id" : 1,
+	    "attach_1" : "VAS 5.56 消音器",
+	    "attach_2" : "15\" BOWEN ELARA 枪管",
+	    "attach_3" : "5.7X28MM 高压弹药",
+	    "attach_4" : "MFS IMPETUS 快速弹匣",
+	    "attach_5" : "瞄准镜 \/ FLOWGUARD 下挂配件",
+	    "recommended_sight_shooting_style" : "LETHAL TOOLS ELO 准镜",
+	    "build_code" : "A14-JDJGJ-3GI3F-3L11"
     }
 ]}
