@@ -547,5 +547,17 @@
         "attach_4": "CHARGEUR RAPIDE CAROUSEL MFS",
         "attach_5": "CROSSE LÉGÈRE CASINO",
         "recommended_sight_shooting_style": null
+    },
+    {
+	    "id" : 47,
+	    "weapon_name" : "VX COMPACT",
+	    "weapon_id" : 2,
+	    "attach_1" : "SILENCIEUX VAS 5.56",
+	    "attach_2" : "CANON REDWELL ASCENT 14,3\"",
+	    "attach_3" : "MUNITIONS SURPRESSION 5.7X28MM",
+	    "attach_4" : "CHARGEUR RAPIDE IMPETUS MFS",
+	    "attach_5" : "VISEUR",
+	    "recommended_sight_shooting_style" : "VISEUR POINT ROUGE LETHAL TOOLS",
+	    "build_code" : "A14-2JDGJ-3GI3F-DJ11"
     }
 ]}

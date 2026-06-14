@@ -625,5 +625,20 @@
         "attach_7": "LASER BOÎTIER CONVERGENCE",
         "attach_8": "MUNITIONS BLINDÉES 9MM PARABELLUM",
         "recommended_sight_shooting_style": null
+    },
+    {
+	    "id" : 47,
+	    "weapon_name" : "VX COMPACT",
+	    "weapon_id" : 3,
+	    "attach_1" : "SILENCIEUX VAS 5.56",
+	    "attach_2" : "CANON PROMONTORY 13\"",
+	    "attach_3" : "M335-X FRAG \/ SOUS-CANON FLOWGUARD",
+	    "attach_4" : "CHARGEUR RAPIDE IMPETUS MFS",
+	    "attach_5" : "POIGNÉE ARRIÈRE LTI BULFORD",
+	    "attach_6" : "CROSSE LÉGÈRE LACTIC",
+	    "attach_7" : "LASER EAM SCATTERLINE",
+	    "attach_8" : "MUNITIONS BLINDÉES 5.7X28MM",
+	    "recommended_sight_shooting_style" : null,
+	    "build_code" : "A14-22GC6-GTV7S-CS11"
     }
 ]}

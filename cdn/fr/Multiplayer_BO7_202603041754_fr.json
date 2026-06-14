@@ -463,5 +463,17 @@
         "attach_4": "CHARGEUR RAPIDE CAROUSEL MFS",
         "attach_5": "MODIFICATION DU GROUPE TRANSITION DE CULASSE",
         "recommended_sight_shooting_style": null
+    },
+    {
+	    "id" : 44,
+	    "weapon_name" : "VX COMPACT",
+	    "weapon_id" : 1,
+	    "attach_1" : "SILENCIEUX VAS 5.56",
+	    "attach_2" : "CANON BOWEN ELARA 15\"",
+	    "attach_3" : "MUNITIONS SURPRESSION 5.7X28MM",
+	    "attach_4" : "CHARGEUR RAPIDE IMPETUS MFS",
+	    "attach_5" : "VISEUR \/ SOUS-CANON FLOWGUARD",
+	    "recommended_sight_shooting_style" : "VISEUR POINT ROUGE LETHAL TOOLS",
+	    "build_code" : "A14-JDJGJ-3GI3F-3L11"
     }
 ]}
