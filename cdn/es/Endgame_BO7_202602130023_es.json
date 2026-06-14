@@ -625,5 +625,20 @@
         "attach_7": "LASER EAM SCATTERLINE",
         "attach_8": "MODIFICATION DU GROUPE TRANSITION DE CULASSE",
         "recommended_sight_shooting_style": null
+    },
+    {
+	    "id" : 46,
+	    "weapon_name" : "VX COMPACT",
+	    "weapon_id" : 4,
+	    "attach_1" : "COMPENSADOR DE BOCA REDWELL 5.56",
+	    "attach_2" : "CAÑÓN BOWEN ELARA DE 15\"",
+	    "attach_3" : "ACOPLE FLOWGUARD",
+	    "attach_4" : "CARGADOR RÁPIDO IMPETUS MFS",
+	    "attach_5" : "EMPUÑADURA TRASERA LTI BULFORD",
+	    "attach_6" : "CULATA LIGERA LACTIC",
+	    "attach_7" : "LÁSER EAM SCATTERLINE",
+	    "attach_8" : "MUNICIÓN SOBRECOMPRIMIDA 5.7X28MM",
+	    "recommended_sight_shooting_style" : null,
+	    "build_code" : "A14-2JD6X-6H942-A311"
     }
 ]}

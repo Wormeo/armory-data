@@ -2434,13 +2434,13 @@
 	{
 		"id" : 191,
 		"weapon_name" : "M10 BREACHER",
-		"ttk1" : "909MS",
-		"range1" : "2M",
-		"ads_speed" : "250MS",
+		"ttk1" : "698MS",
+		"range1" : "3M",
+		"ads_speed" : "275MS",
 		"bullet_velocity" : "320",
 		"shots_to_kill" : "2 - 2",
-		"ttk2" : "909MS",
-		"range2" : "8M",
+		"ttk2" : "698MS",
+		"range2" : "27M",
 		"hitscan_range" : "16M",
 		"shot_range" : null
 	},
@@ -2863,12 +2863,12 @@
 	{
 		"id" : 225,
 		"weapon_name" : "1911 (BO7)",
-		"ttk1" : "600",
+		"ttk1" : "600MS",
 		"range1" : "30M",
 		"ads_speed" : "150MS",
 		"bullet_velocity" : "517.5",
 		"shots_to_kill" : "5 - 7",
-		"ttk2" : "900",
+		"ttk2" : "900MS",
 		"range2" : "30M",
 		"hitscan_range" : "26M",
 		"shot_range" : null
@@ -2923,6 +2923,19 @@
 		"ttk2" : "1200MS",
 		"range2" : "50M",
 		"hitscan_range" : "55M",
+		"shot_range" : null
+	},
+	{
+		"id" : 230,
+		"weapon_name" : "VX COMPACT",
+		"ttk1" : "580MS",
+		"range1" : "33M",
+		"ads_speed" : "210MS",
+		"bullet_velocity" : "991.8",
+		"shots_to_kill" : "11 - 14",
+		"ttk2" : "754MS",
+		"range2" : "70M",
+		"hitscan_range" : "50M",
 		"shot_range" : null
 	}
 ]}

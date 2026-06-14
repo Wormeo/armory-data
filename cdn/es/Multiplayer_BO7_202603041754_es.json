@@ -463,5 +463,17 @@
         "attach_4": "CARGADOR RÁPIDO ROTATIVO MFS",
         "attach_5": "MODIFICACIÓN DEL CONJUNTO DEL CIERRE",
         "recommended_sight_shooting_style": null
+    },
+    {
+	    "id" : 44,
+	    "weapon_name" : "VX COMPACT",
+	    "weapon_id" : 1,
+	    "attach_1" : "SILENCIADOR VAS 5.56",
+	    "attach_2" : "CAÑÓN BOWEN ELARA DE 15\"",
+	    "attach_3" : "MUNICIÓN SOBRECOMPRIMIDA 5.7X28MM",
+	    "attach_4" : "CARGADOR RÁPIDO IMPETUS MFS",
+	    "attach_5" : "MIRA \/ ACOPLE FLOWGUARD",
+	    "recommended_sight_shooting_style" : "MIRA RÉFLEX LETHAL TOOLS",
+	    "build_code" : "A14-JDJGJ-3GI3F-3L11"
     }
 ]}

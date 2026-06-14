@@ -547,5 +547,17 @@
         "attach_4": "CARGADOR RÁPIDO ROTATIVO MFS",
         "attach_5": "CULATA LIGERA CASINO",
         "recommended_sight_shooting_style": null
+    },
+    {
+	    "id" : 47,
+	    "weapon_name" : "VX COMPACT",
+	    "weapon_id" : 2,
+	    "attach_1" : "SILENCIADOR VAS 5.56",
+	    "attach_2" : "CAÑÓN REDWELL ASCENT DE 14.3\"",
+	    "attach_3" : "MUNICIÓN SOBRECOMPRIMIDA 5.7X28MM",
+	    "attach_4" : "CARGADOR RÁPIDO IMPETUS MFS",
+	    "attach_5" : "MIRA",
+	    "recommended_sight_shooting_style" : "MIRA RÉFLEX LETHAL TOOLS",
+	    "build_code" : "A14-2JDGJ-3GI3F-DJ11"
     }
 ]}
