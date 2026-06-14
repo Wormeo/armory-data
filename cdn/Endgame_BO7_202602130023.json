@@ -629,5 +629,20 @@
 		"attach_8" : "BOLT CARRIER GROUP MOD",
 		"recommended_sight_shooting_style" : null,
 		"build_code" : "S15-91TUU-FB511"
+	},
+	{
+		"id" : 46,
+		"weapon_name" : "VX COMPACT",
+		"weapon_id" : 4,
+		"attach_1" : "REDWELL 5.56 COMPENSATOR MUZZLE",
+		"attach_2" : "15\" BOWEN ELARA BARREL",
+		"attach_3" : "FLOWGUARD UNDERBARREL",
+		"attach_4" : "MFS IMPETUS FAST MAG",
+		"attach_5" : "LTI BULFORD REAR GRIP",
+		"attach_6" : "LACTIC LIGHT STOCK",
+		"attach_7" : "EAM SCATTERLINE LASER",
+		"attach_8" : "5.7X28MM OVERPRESSURED",
+		"recommended_sight_shooting_style" : null,
+		"build_code" : "A14-2JD6X-6H942-A311"
 	}
 ]}

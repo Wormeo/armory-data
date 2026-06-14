@@ -151,10 +151,10 @@
 		"attach_1" : "M10 CQB CHOKE MUZZLE",
 		"attach_2" : "17.4\" REDWELL-5K BARREL",
 		"attach_3" : "EAM STEADY-90 UNDERBARREL",
-		"attach_4" : "LW SKELETON STOCK",
+		"attach_4" : "M10 BREACHER ARGUS LEVER STOCK",
 		"attach_5" : "CONVERGENCE BOX LASER",
 		"recommended_sight_shooting_style" : null,
-		"build_code" : "C01-6AC8C-H4B11"
+		"build_code" : "C01-6AC8C-HN611"
 	},
 	{
 		"id" : 14,
@@ -467,5 +467,17 @@
 		"attach_5" : "BOLT CARRIER GROUP MOD",
 		"recommended_sight_shooting_style" : null,
 		"build_code" : "S15-858VL-L111"
+	},
+	{
+		"id" : 44,
+		"weapon_name" : "VX COMPACT",
+		"weapon_id" : 1,
+		"attach_1" : "VAS 5.56 SUPPRESSOR",
+		"attach_2" : "15\" BOWEN ELARA BARREL",
+		"attach_3" : "5.7X28MM OVERPRESSURED",
+		"attach_4" : "MFS IMPETUS FAST MAG",
+		"attach_5" : "SIGHT \/ FLOWGUARD UNDERBARREL",
+		"recommended_sight_shooting_style" : "LETHAL TOOLS ELO",
+		"build_code" : "A14-JDJGJ-3GI3F-3L11"
 	}
 ]}
