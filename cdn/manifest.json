@@ -28,7 +28,7 @@
     "Premium_Users_202602131455.json": 0,
     "Premium_Stats_202602131455.json": 1,
     "MinMax_202603052106.json": 0,
-    "hotfixes.json": 2,
+    "hotfixes.json": 3,
     "archetypes.json": 1,
 
     "es/Akimbo_202603022137_es.json": 0,
@@ -54,7 +54,7 @@
     "es/Weapon_Names_202602160630_es.json": 1,
     "es/Perks_202602141947_es.json": 0,
     "es/Premium_Stats_202602131455_es.json": 1,
-    "es/hotfixes_es.json": 2,
+    "es/hotfixes_es.json": 3,
     "es/archetypes_es.json": 1,
 
     "fr/Akimbo_202603022137_fr.json": 0,
@@ -80,7 +80,7 @@
     "fr/Weapon_Names_202602160630_fr.json": 1,
     "fr/Perks_202602141947_fr.json": 0,
     "fr/Premium_Stats_202602131455_fr.json": 1,
-    "fr/hotfixes_fr.json": 2,
+    "fr/hotfixes_fr.json": 3,
     "fr/archetypes_fr.json": 1,
 
     "zh/Akimbo_202603022137_zh.json": 0,
@@ -106,7 +106,7 @@
     "zh/Weapon_Names_202602160630_zh.json": 1,
     "zh/Perks_202602141947_zh.json": 0,
     "zh/Premium_Stats_202602131455_zh.json": 1,
-    "zh/hotfixes_zh.json": 2,
+    "zh/hotfixes_zh.json": 3,
     "zh/archetypes_zh.json": 1
   }
 }
