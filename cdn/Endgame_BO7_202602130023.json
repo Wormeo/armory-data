@@ -644,5 +644,20 @@
 		"attach_8" : "5.7X28MM OVERPRESSURED",
 		"recommended_sight_shooting_style" : null,
 		"build_code" : "A14-2JD6X-6H942-A311"
+	},
+	{
+		"id" : 47,
+		"weapon_name" : "AN-94",
+		"weapon_id" : 4,
+		"attach_1" : "LTI STENTORIAN MUZZLE",
+		"attach_2" : "18.5\" APHELION BARREL",
+		"attach_3" : "FLOWGUARD UNDERBARREL",
+		"attach_4" : "REXFORD EXTENDED MAG",
+		"attach_5" : "BOWEN UMBRAL REAR GRIP",
+		"attach_6" : "PRO-AM MOBILITY STOCK",
+		"attach_7" : "5.45 OVERPRESSURED",
+		"attach_8" : "FANG HOVERPOINT ELO OPTIC",
+		"recommended_sight_shooting_style" : null,
+		"build_code" : "A13-2JFA4-M77HK-MS11"
 	}
 ]}

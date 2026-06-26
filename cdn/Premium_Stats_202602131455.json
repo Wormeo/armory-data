@@ -2937,5 +2937,18 @@
 		"range2" : "70M",
 		"hitscan_range" : "50M",
 		"shot_range" : null
+	},
+	{
+		"id" : 231,
+		"weapon_name" : "AN-94 (BO7)",
+		"ttk1" : "651MS",
+		"range1" : "44M",
+		"ads_speed" : "300MS",
+		"bullet_velocity" : "1269.6",
+		"shots_to_kill" : "8 - 9",
+		"ttk2" : "651MS",
+		"range2" : "66M",
+		"hitscan_range" : "63M",
+		"shot_range" : null
 	}
 ]}

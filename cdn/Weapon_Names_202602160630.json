@@ -194,7 +194,7 @@
 	},
 	{
 		"id" : 33,
-		"weapon_name" : "AN-94",
+		"weapon_name" : "AN-94 (MW19)",
 		"weapon_image" : "https:\/\/res.cloudinary.com\/dctlpj7fg\/image\/upload\/v1749189301\/AN-94_jnwkz4.webp",
 		"game_image" : "https:\/\/res.cloudinary.com\/dctlpj7fg\/image\/upload\/v1749198509\/MW19_LOGO_qh03z4.png"
 	},
@@ -1894,6 +1894,12 @@
 		"id" : 316,
 		"weapon_name" : "VX COMPACT",
 		"weapon_image" : "https:\/\/res.cloudinary.com\/dctlpj7fg\/image\/upload\/v1781457508\/VSCOMPACT_j7spw9.png",
+		"game_image" : "https:\/\/res.cloudinary.com\/dctlpj7fg\/image\/upload\/v1763257596\/BO7_mzvevs.png"
+	},
+	{
+		"id" : 317,
+		"weapon_name" : "AN-94 (BO7)",
+		"weapon_image" : "https:\/\/res.cloudinary.com\/dctlpj7fg\/image\/upload\/v1782506793\/AN94_ihodby.png",
 		"game_image" : "https:\/\/res.cloudinary.com\/dctlpj7fg\/image\/upload\/v1763257596\/BO7_mzvevs.png"
 	}
 ]}

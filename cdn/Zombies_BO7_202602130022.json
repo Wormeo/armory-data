@@ -644,5 +644,20 @@
 		"attach_8" : "5.7X28MM FMJ",
 		"recommended_sight_shooting_style" : null,
 		"build_code" : "A14-22GC6-GTV7S-CS11"
+	},
+	{
+		"id" : 48,
+		"weapon_name" : "AN-94",
+		"weapon_id" : 3,
+		"attach_1" : "VAS 5.56 SUPPRESSOR",
+		"attach_2" : "15\" BENTHIC BARREL",
+		"attach_3" : "M335-X FRAG \/ FLOWGUARD UNDERBARREL",
+		"attach_4" : "REXFORD EXTENDED MAG",
+		"attach_5" : "BOWEN UMBRAL REAR GRIP",
+		"attach_6" : "PRO-AM MOBILITY STOCK",
+		"attach_7" : "CONVERGENCE BOX LASER",
+		"attach_8" : "5.45 FMJ",
+		"recommended_sight_shooting_style" : null,
+		"build_code" : "A3-22GC1-8QAEM-8W11"
 	}
 ]}

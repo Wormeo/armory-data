@@ -42,7 +42,7 @@
 	},
 	{
 		"id" : 5,
-		"weapon_name" : "AN-94",
+		"weapon_name" : "AN-94 (MW19)",
 		"weapon_id" : 13,
 		"attach_1" : "MONOLITHIC SUPPRESSOR",
 		"attach_2" : "COMMANDO FOREGRIP UNDERBARREL",
@@ -92,7 +92,7 @@
 	},
 	{
 		"id" : 10,
-		"weapon_name" : "CROSSBOW (MW19)",
+		"weapon_name" : "CROSSBOW",
 		"weapon_id" : 13,
 		"attach_1" : "FTAC SPEEDGRIP UNDERBARREL",
 		"attach_2" : "FORGE TAC SPEEDTRAK STOCK \/ SIGHT",

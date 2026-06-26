@@ -479,5 +479,17 @@
 		"attach_5" : "SIGHT \/ FLOWGUARD UNDERBARREL",
 		"recommended_sight_shooting_style" : "LETHAL TOOLS ELO",
 		"build_code" : "A14-JDJGJ-3GI3F-3L11"
+	},
+	{
+		"id" : 45,
+		"weapon_name" : "AN-94",
+		"weapon_id" : 1,
+		"attach_1" : "16\" HOARFROST BARREL",
+		"attach_2" : "VAS CONVERGENCE UNDERBARREL",
+		"attach_3" : "ALBATROSS REAR GRIP",
+		"attach_4" : "VERNAL FLIP MAG",
+		"attach_5" : "SIGHT \/  RECOIL SPINGS \/ SUPPRESSOR",
+		"recommended_sight_shooting_style" : "FANG HOVERPOINT ELO",
+		"build_code" : "A13-34FDC-QTI2B-11"
 	}
 ]}
