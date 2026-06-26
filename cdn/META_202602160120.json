@@ -520,24 +520,24 @@
 		"id" : 88,
 		"game" : "BO7",
 		"class_type" : "LONG RANGE (WZ)",
-		"weapon" : "2. DS20 MIRAGE"
+		"weapon" : "2. MK35 ISR"
 	},
 	{
 		"id" : 89,
 		"game" : "BO7",
 		"class_type" : "LONG RANGE (WZ)",
-		"weapon" : "3. MXR-17"
+		"weapon" : "3. DS20 MIRAGE"
 	},
 	{
 		"id" : 90,
 		"game" : "BO7",
 		"class_type" : "LONG RANGE (WZ)",
-		"weapon" : "4. VOYAK KT-3"
+		"weapon" : "4. MXR-17"
 	},
 	{
 		"id" : 91,
 		"game" : "BO7",
 		"class_type" : "LONG RANGE (WZ)",
-		"weapon" : "5. MK35 ISR"
+		"weapon" : "5. VOYAK KT-3"
 	}
 ]}
