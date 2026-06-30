@@ -1,5 +1,5 @@
 {
-  "REAR GRIPS": {
+  "REAR GRIP": {
     "606-T SKELETON GRIP": {
       "EN": "606-T SKELETON GRIP",
       "FR": "POIGNÉE SQUELETTE 606-T",
@@ -2864,7 +2864,7 @@
       "DE": "CHATHAM KONTROLLGRIFF"
     }
   },
-  "FIRE MODS": {
+  "FIRE MOD": {
     ".22 WMR FMJ": {
       "EN": ".22 WMR FMJ",
       "FR": ".22 WMR FMJ",
@@ -3587,7 +3587,7 @@
       "DE": "XM4 3-SCHUSS-FEUERSTOSS-MOD"
     }
   },
-  "TRIGGER ACTIONS": {
+  "TRIGGER ACTION": {
     "ALI'S REGRET": {
       "EN": "ALI'S REGRET",
       "FR": "REGRET D'ALI",
@@ -3806,7 +3806,7 @@
       "DE": "XRK V6 MATCH"
     }
   },
-  "LEVERS": {
+  "LEVER": {
     "ASSAULT LEVER": {
       "EN": "ASSAULT LEVER",
       "FR": "LEVIER D'ASSAUT",
@@ -3857,7 +3857,7 @@
       "DE": "STALLION-HEBEL"
     }
   },
-  "COMBS": {
+  "COMB": {
     "5GN TAC-COMB": {
       "EN": "5GN TAC-COMB",
       "FR": "COMBAT TAC 5GN",
@@ -4293,7 +4293,7 @@
       "DE": "WINGMAN-WANGENAUFLAGE"
     }
   },
-  "PUMP GRIPS": {
+  "PUMP GRIP": {
     "VLK PRIME PUMP GRIP": {
       "EN": "VLK PRIME PUMP GRIP",
       "FR": "POIGNÉE POMPE VLK PRIME",
@@ -4316,7 +4316,7 @@
       "DE": "XRK RELIAGRIP GRIFF"
     }
   },
-  "MUZZLES": {
+  "MUZZLE": {
     "AGENCY CHOKE": {
       "EN": "AGENCY CHOKE",
       "FR": "ÉTRANGLEUR AGENCY",
@@ -13527,7 +13527,7 @@
       "DE": "S-GRIP ZERO GRIFF"
     }
   },
-  "GUARDS": {
+  "GUARD": {
     "AZ-40 SHOTGUARD": {
       "EN": "AZ-40 SHOTGUARD",
       "FR": "PROTECTEUR DE TIR AZ-40",
@@ -13689,7 +13689,7 @@
       "DE": "TV CF40 HANDSCHUTZ"
     }
   },
-  "WIRES": {
+  "WIRE": {
     "16-STRAND CABLE": {
       "EN": "16-STRAND CABLE",
       "FR": "CÂBLE À 16 BRINS",
@@ -13705,7 +13705,7 @@
       "DE": "28-LITZEN-KABEL"
     }
   },
-  "BOLTS": {
+  "BOLT": {
     "BLASTCAP 20\" BOLTS": {
       "EN": "BLASTCAP 20\" BOLTS",
       "FR": "BOULONS BLASTCAP 20\"",
@@ -13889,7 +13889,7 @@
       "DE": "ZLR VERSTÄRKTER VERSCHLUSSBOLZEN"
     }
   },
-  "OPTICS": {
+  "OPTIC": {
     "\"": {
       "EN": "\"",
       "FR": "SUPPRESSEUR",
@@ -15655,7 +15655,7 @@
       "DE": "XTEN ERX-10 MINI"
     }
   },
-  "SLINGS": {
+  "SLING": {
     "RECON SLING": {
       "EN": "RECON SLING",
       "FR": "BANDOULIÈRE DE RECONNAISSANCE",
@@ -15678,7 +15678,7 @@
       "DE": "TAKTISCHER TRAGERIEMEN"
     }
   },
-  "BARRELS": {
+  "BARREL": {
     ".357 LONG": {
       "EN": ".357 LONG",
       "FR": ".357 LONG",
@@ -23072,7 +23072,7 @@
       "DE": "15\"-BENTHOS-LAUF"
     }
   },
-  "PERKS": {
+  "PERK": {
     "AKIMBO": {
       "EN": "AKIMBO",
       "FR": "AKIMBO",
@@ -23223,7 +23223,7 @@
       "DE": "XRK THUNDER 200LB"
     }
   },
-  "RAILS": {
+  "RAIL": {
     "GR33 LIGHT RAIL": {
       "EN": "GR33 LIGHT RAIL",
       "FR": "RAIL LÉGER GR33",
@@ -23239,7 +23239,7 @@
       "DE": "INTEGRIERTE REFLEX-SCHIENE"
     }
   },
-  "LASERS": {
+  "LASER": {
     "1MW ARTEMIS LASER": {
       "EN": "1MW ARTEMIS LASER",
       "FR": "LASER ARTEMIS 1 MW",
@@ -23773,7 +23773,7 @@
       "DE": "XTEN SIDEARM-L400"
     }
   },
-  "UNDERBARRELS": {
+  "UNDERBARREL": {
     "12-GAUGE DEPUTY": {
       "EN": "12-GAUGE DEPUTY",
       "FR": "DÉPUTÉ CALIBRE 12",
@@ -25399,7 +25399,7 @@
       "DE": "ZERO-S HANDSCHUTZ"
     }
   },
-  "MAGAZINES": {
+  "MAGAZINE": {
     ".300 30-ROUND BLACKOUT MAGS": {
       "EN": ".300 30-ROUND BLACKOUT MAGS",
       "FR": "CHARGEUR .300 BLACKOUT 30 COUPS",
@@ -28334,7 +28334,7 @@
       "DE": "DUMA SCHNELLWECHSEL-MAGAZIN"
     }
   },
-  "LOADERS": {
+  "LOADER": {
     "B-3ST LOADER": {
       "EN": "B-3ST LOADER",
       "FR": "CHARGEUR B-3ST",
@@ -28350,7 +28350,7 @@
       "DE": "S40 SCHNELLLADER"
     }
   },
-  "CARRY HANDLES": {
+  "CARRY HANDLE": {
     "FIELD-WRAPPED HANDLE": {
       "EN": "FIELD-WRAPPED HANDLE",
       "FR": "POIGNÉE ENVELOPPÉE SUR LE TERRAIN",
@@ -28366,7 +28366,7 @@
       "DE": "KEYSTONE-GRIFF"
     }
   },
-  "PUMPS": {
+  "PUMP": {
     "FSS R9-0 BULLDOG": {
       "EN": "FSS R9-0 BULLDOG",
       "FR": "FSS R9-0 BULLDOG",
@@ -28389,7 +28389,7 @@
       "DE": "FTAC ULTRALEICHT-PUMPE"
     }
   },
-  "CONVERSION KITS": {
+  "CONVERSION KIT": {
     "XRK IP-V2 CONVERSION KIT": {
       "EN": "XRK IP-V2 CONVERSION KIT",
       "FR": "KIT DE CONVERSION XRK IP-V2",
