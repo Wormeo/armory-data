@@ -28734,6 +28734,174 @@
       "ES": "MIRA",
       "ZH": "瞄准镜",
       "DE": "VISIER"
+    },
+    "BARREL": {
+      "EN": "BARREL",
+      "FR": "CANON",
+      "ES": "CAÑÓN",
+      "ZH": "枪管",
+      "DE": "LAUF"
+    },
+    "STOCK": {
+      "EN": "STOCK",
+      "FR": "CROSSE",
+      "ES": "CULATA",
+      "ZH": "枪托",
+      "DE": "SCHULTERSTÜTZE"
+    },
+    "MUZZLE": {
+      "EN": "MUZZLE",
+      "FR": "BOUCHE",
+      "ES": "BOCA",
+      "ZH": "枪口",
+      "DE": "MÜNDUNG"
+    },
+    "REAR GRIP": {
+      "EN": "REAR GRIP",
+      "FR": "POIGNÉE ARRIÈRE",
+      "ES": "EMPUÑADURA TRASERA",
+      "ZH": "后握把",
+      "DE": "HINTERGRIFF"
+    },
+    "OPTIC": {
+      "EN": "OPTIC",
+      "FR": "LUNETTE",
+      "ES": "MIRA",
+      "ZH": "瞄准镜",
+      "DE": "VISIER"
+    },
+    "UNDERBARREL": {
+      "EN": "UNDERBARREL",
+      "FR": "ACCESSOIRE DE CANON",
+      "ES": "ACOPLE",
+      "ZH": "下挂",
+      "DE": "UNTERLAUF"
+    },
+    "MAGAZINE": {
+      "EN": "MAGAZINE",
+      "FR": "CHARGEUR",
+      "ES": "CARGADOR",
+      "ZH": "弹匣",
+      "DE": "MAGAZIN"
+    },
+    "LASER": {
+      "EN": "LASER",
+      "FR": "LASER",
+      "ES": "LÁSER",
+      "ZH": "激光",
+      "DE": "LASER"
+    },
+    "COMB": {
+      "EN": "COMB",
+      "FR": "APPUI-JOUE",
+      "ES": "PEINE",
+      "ZH": "枪托梳",
+      "DE": "SCHAFTRÜCKEN"
+    },
+    "TRIGGER ACTION": {
+      "EN": "TRIGGER ACTION",
+      "FR": "DÉTENTE",
+      "ES": "GATILLO",
+      "ZH": "扳机",
+      "DE": "ABZUG"
+    },
+    "GUARD": {
+      "EN": "GUARD",
+      "FR": "GARDE-MAIN",
+      "ES": "GUARDAMANOS",
+      "ZH": "护木",
+      "DE": "HANDSCHUTZ"
+    },
+    "BOLT": {
+      "EN": "BOLT",
+      "FR": "CULASSE",
+      "ES": "CERROJO",
+      "ZH": "枪机",
+      "DE": "VERSCHLUSS"
+    },
+    "ARM": {
+      "EN": "ARM",
+      "FR": "BRAS",
+      "ES": "BRAZO",
+      "ZH": "支架",
+      "DE": "ARM"
+    },
+    "RAIL": {
+      "EN": "RAIL",
+      "FR": "RAIL",
+      "ES": "RIEL",
+      "ZH": "导轨",
+      "DE": "SCHIENE"
+    },
+    "CARRY HANDLE": {
+      "EN": "CARRY HANDLE",
+      "FR": "POIGNÉE DE TRANSPORT",
+      "ES": "ASA DE TRANSPORTE",
+      "ZH": "提把",
+      "DE": "TRAGEGRIFF"
+    },
+    "LEVER": {
+      "EN": "LEVER",
+      "FR": "LEVIER",
+      "ES": "PALANCA",
+      "ZH": "杠杆",
+      "DE": "HEBEL"
+    },
+    "LOADER": {
+      "EN": "LOADER",
+      "FR": "CHARGEUR",
+      "ES": "CARGADOR",
+      "ZH": "装弹器",
+      "DE": "LADEVORRICHTUNG"
+    },
+    "WIRE": {
+      "EN": "WIRE",
+      "FR": "CÂBLE",
+      "ES": "CABLE",
+      "ZH": "线缆",
+      "DE": "KABEL"
+    },
+    "SLINGS": {
+      "EN": "SLINGS",
+      "FR": "SANGLE",
+      "ES": "CORREA",
+      "ZH": "枪带",
+      "DE": "RIEMEN"
+    },
+    "FIRE MODS": {
+      "EN": "FIRE MODS",
+      "FR": "MOD DE TIR",
+      "ES": "MODO DE FUEGO",
+      "ZH": "射击模式",
+      "DE": "FEUERMODUS"
+    },
+    "PERK": {
+      "EN": "PERK",
+      "FR": "ATOUT",
+      "ES": "VENTAJA",
+      "ZH": "特长",
+      "DE": "EXTRA"
+    },
+    "PUMPS": {
+      "EN": "PUMPS",
+      "FR": "POMPE",
+      "ES": "BOMBA",
+      "ZH": "泵",
+      "DE": "PUMPE"
+    },
+    "PUMP GRIP": {
+      "EN": "PUMP GRIP",
+      "FR": "POIGNÉE POMPE",
+      "ES": "EMPUÑADURA DE BOMBEO",
+      "ZH": "泵动握把",
+      "DE": "PUMP-GRIFF"
+    },
+    "AMMUNITION": {
+      "EN": "AMMUNITION",
+      "FR": "MUNITIONS",
+      "ES": "MUNICIÓN",
+      "ZH": "弹药",
+      "DE": "MUNITION"
     }
   }
 }
