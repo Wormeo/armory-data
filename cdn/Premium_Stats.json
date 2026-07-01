@@ -2695,12 +2695,12 @@
 		"id" : 212,
 		"weapon_name" : "STURMWOLF 45",
 		"ttk1" : "558MS",
-		"range1" : "13M",
+		"range1" : "15M",
 		"ads_speed" : "170MS",
 		"bullet_velocity" : "604.8",
 		"shots_to_kill" : "7 - 8",
 		"ttk2" : "651MS",
-		"range2" : "31M",
+		"range2" : "34M",
 		"hitscan_range" : "30M",
 		"shot_range" : null
 	},
@@ -2778,7 +2778,7 @@
 		"bullet_velocity" : "694.4",
 		"shots_to_kill" : "12 - 15",
 		"ttk2" : "728MS",
-		"range2" : "31M",
+		"range2" : "33M",
 		"hitscan_range" : "35M",
 		"shot_range" : null
 	},
@@ -2817,7 +2817,7 @@
 		"bullet_velocity" : "582.4",
 		"shots_to_kill" : "11 - 12",
 		"ttk2" : "605MS",
-		"range2" : "28M",
+		"range2" : "30M",
 		"hitscan_range" : "29M",
 		"shot_range" : null
 	},
@@ -2842,8 +2842,8 @@
 		"ads_speed" : "245MS",
 		"bullet_velocity" : "1092",
 		"shots_to_kill" : "8 - 10",
-		"ttk2" : "720MS",
-		"range2" : "52M",
+		"ttk2" : "640MS",
+		"range2" : "57M",
 		"hitscan_range" : "55M",
 		"shot_range" : null
 	},
@@ -2929,13 +2929,26 @@
 		"id" : 230,
 		"weapon_name" : "VX COMPACT",
 		"ttk1" : "580MS",
-		"range1" : "33M",
+		"range1" : "42M",
 		"ads_speed" : "210MS",
-		"bullet_velocity" : "991.8",
+		"bullet_velocity" : "1036",
 		"shots_to_kill" : "11 - 14",
 		"ttk2" : "754MS",
-		"range2" : "70M",
+		"range2" : "80M",
 		"hitscan_range" : "50M",
+		"shot_range" : null
+	},
+	{
+		"id" : 231,
+		"weapon_name" : "AN-94 (BO7)",
+		"ttk1" : "651MS",
+		"range1" : "44M",
+		"ads_speed" : "300MS",
+		"bullet_velocity" : "1269.6",
+		"shots_to_kill" : "8 - 9",
+		"ttk2" : "651MS",
+		"range2" : "66M",
+		"hitscan_range" : "63M",
 		"shot_range" : null
 	}
 ]}
