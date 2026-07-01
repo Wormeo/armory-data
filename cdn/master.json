@@ -3865,6 +3865,13 @@
       "ZH": "5GN战术作战组件",
       "DE": "5GN TAKTISCHE KOMBAT"
     },
+    "BALANCED RISER": {
+      "EN": "BALANCED RISER",
+      "FR": "ÉLÉVATEUR ÉQUILIBRÉ",
+      "ES": "ELEVADOR EQUILIBRADO",
+      "ZH": "平衡升降器",
+      "DE": "AUSGEGLICHENES VISIERGEHÄUSE"
+    },
     "LITHE RISER": {
       "EN": "LITHE RISER",
       "FR": "ÉLÉVATEUR LITHE",
@@ -6775,6 +6782,13 @@
       "ES": "CULATA DE MOVILIDAD 2R",
       "ZH": "2R 机动枪托",
       "DE": "2R-MOBILITÄTSSCHULTERSTÜTZE"
+    },
+    "COMMAND D-15 RECOIL REDUCTION PAD": {
+      "EN": "COMMAND D-15 RECOIL REDUCTION PAD",
+      "FR": "PLAQUE ANTI-RECUL COMMAND D-15",
+      "ES": "ALMOHADILLA REDUCTORA DE RETROCESO COMMAND D-15",
+      "ZH": "COMMAND D-15 后坐力抑制垫",
+      "DE": "COMMAND D-15 RÜCKSTOSSMINDERUNGSPOLSTER"
     },
     "MAX DMR PRECISION": {
       "EN": "MAX DMR PRECISION",
@@ -13890,13 +13904,6 @@
     }
   },
   "OPTIC": {
-    "\"": {
-      "EN": "\"",
-      "FR": "SUPPRESSEUR",
-      "ES": "SUPRESOR",
-      "ZH": "消音器",
-      "DE": "SCHALLDÄMPFER"
-    },
     "PRISMATECH TURBO 4X SCOPE + COVERT RETICLE": {
       "EN": "PRISMATECH TURBO 4X SCOPE + COVERT RETICLE",
       "FR": "LUNETTE PRISMATECH TURBO 4X + RÉTICULE COVERT",
@@ -28714,6 +28721,13 @@
       "ZH": "爆炸刀刃",
       "DE": "EXPLOSIV-KLINGEN"
     },
+    "RICOCHET BLADES": {
+      "EN": "RICOCHET BLADES",
+      "FR": "LAMES À RICOCHET",
+      "ES": "CUCHILLAS DE REBOTE",
+      "ZH": "跳弹刀刃",
+      "DE": "RICOCHET-KLINGEN"
+    },
     "EXPLOSIVE": {
       "EN": "EXPLOSIVE",
       "FR": "EXPLOSIF",
@@ -28727,13 +28741,6 @@
       "ES": "NADA",
       "ZH": "无",
       "DE": "NICHTS"
-    },
-    "SIGHT": {
-      "EN": "SIGHT",
-      "FR": "VISEUR",
-      "ES": "MIRA",
-      "ZH": "瞄准镜",
-      "DE": "VISIER"
     },
     "BARREL": {
       "EN": "BARREL",
@@ -28819,7 +28826,7 @@
       "ZH": "枪机",
       "DE": "VERSCHLUSS"
     },
-    "ARM": {
+    "ARMS": {
       "EN": "ARM",
       "FR": "BRAS",
       "ES": "BRAZO",
@@ -28861,14 +28868,14 @@
       "ZH": "线缆",
       "DE": "KABEL"
     },
-    "SLINGS": {
+    "SLING": {
       "EN": "SLINGS",
       "FR": "SANGLE",
       "ES": "CORREA",
       "ZH": "枪带",
       "DE": "RIEMEN"
     },
-    "FIRE MODS": {
+    "FIRE MOD": {
       "EN": "FIRE MODS",
       "FR": "MOD DE TIR",
       "ES": "MODO DE FUEGO",
@@ -28882,7 +28889,7 @@
       "ZH": "特长",
       "DE": "EXTRA"
     },
-    "PUMPS": {
+    "PUMP": {
       "EN": "PUMPS",
       "FR": "POMPE",
       "ES": "BOMBA",
@@ -28902,6 +28909,13 @@
       "ES": "MUNICIÓN",
       "ZH": "弹药",
       "DE": "MUNITION"
+    },
+    "SIGHT": {
+      "EN": "SIGHT",
+      "FR": "VISEUR",
+      "ES": "MIRA",
+      "ZH": "瞄准镜",
+      "DE": "VISIER"
     },
 
       "HASTE": { "EN": "HASTE", "FR": "HÂTE", "ES": "PRISA", "ZH": "急速", "DE": "HAST" },
