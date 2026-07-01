@@ -70,6 +70,13 @@
       "ZH": "双持",
       "DE": "AKIMBO"
     },
+    "AKIMBO .50 GS": {
+      "EN": "AKIMBO .50 GS",
+      "FR": "BASILISK AKIMBO",
+      "ES": ".50 GS AKIMBO",
+      "ZH": "双持 .50 GS",
+      "DE": ".50 GS AKIMBO"
+    },
     "AKIMBO BASILISK": {
       "EN": "AKIMBO BASILISK",
       "FR": "BASILISK AKIMBO",
@@ -13910,6 +13917,13 @@
       "ES": "MIRA PRISMATECH TURBO 4X + RETÍCULA COVERT",
       "ZH": "PRISMATECH TURBO 4X 瞄准镜 + COVERT 分划板",
       "DE": "PRISMATECH TURBO 4X VISIER + COVERT-ABSEHEN"
+    },
+    "SIGHT": {
+      "EN": "SIGHT",
+      "FR": "VISEUR",
+      "ES": "MIRA",
+      "ZH": "瞄准镜",
+      "DE": "VISIER"
     },
     "XTEN INTLAS AS-7": {
       "EN": "XTEN INTLAS AS-7",
@@ -28909,13 +28923,6 @@
       "ES": "MUNICIÓN",
       "ZH": "弹药",
       "DE": "MUNITION"
-    },
-    "SIGHT": {
-      "EN": "SIGHT",
-      "FR": "VISEUR",
-      "ES": "MIRA",
-      "ZH": "瞄准镜",
-      "DE": "VISIER"
     },
 
       "HASTE": { "EN": "HASTE", "FR": "HÂTE", "ES": "PRISA", "ZH": "急速", "DE": "HAST" },
