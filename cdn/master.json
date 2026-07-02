@@ -20544,12 +20544,19 @@
       "ZH": "EXF GULF-16 枪管",
       "DE": "EXF GULF-16 LAUF"
     },
-    "EXF OPAL-9 EXF TROPE-H": {
-      "EN": "EXF OPAL-9 EXF TROPE-H",
-      "FR": "EXF OPAL-9 EXF TROPE-H",
-      "ES": "EXF OPAL-9 EXF TROPE-H",
-      "ZH": "EXF OPAL-9 EXF TROPE-H",
-      "DE": "EXF OPAL-9 EXF TROPE-H"
+    "EXF OPAL-9: {
+      "EN": "EXF OPAL-9",
+      "FR": "EXF OPAL-9",
+      "ES": "EXF OPAL-9",
+      "ZH": "EXF OPAL-9",
+      "DE": "EXF OPAL-9"
+    },
+    "EXF TROPE-H": {
+      "EN": "EXF TROPE-H",
+      "FR": "EXF TROPE-H",
+      "ES": "EXF TROPE-H",
+      "ZH": "EXF TROPE-H",
+      "DE": "EXF TROPE-H"
     },
     "EXILER-84 SHORT BARREL": {
       "EN": "EXILER-84 SHORT BARREL",
