@@ -92,7 +92,7 @@
 	},
 	{
 		"id" : 10,
-		"weapon_name" : "CROSSBOW",
+		"weapon_name" : "CROSSBOW (MW19)",
 		"weapon_id" : 13,
 		"attach_1" : "FTAC SPEED GRIP",
 		"attach_2" : "FORGE TAC SPEEDTRAK \/ SIGHT",
