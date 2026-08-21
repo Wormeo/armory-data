@@ -491,5 +491,17 @@
 		"attach_5" : "SIGHT \/  RECOIL SPRINGS \/ SUPPRESSOR",
 		"recommended_sight_shooting_style" : "FANG HOVERPOINT ELO",
 		"build_code" : "A13-34FDC-QTI2B-11"
+	},
+    {
+		"id" : 46,
+		"weapon_name" : "MAMMOTH",
+		"weapon_id" : 1,
+		"attach_1" : "16\" CARBONIC BARREL",
+		"attach_2" : "LATERAL PRECISION GRIP",
+		"attach_3" : "ALLIANCE GRIP",
+		"attach_4" : "DOWNSIZE FAST MAG",
+		"attach_5" : "LETHAL TOOLS ELO OPTIC",
+		"recommended_sight_shooting_style" : null,
+		"build_code" : "L10-5XMTE-ULVN1-1"
 	}
 ]}

@@ -989,5 +989,16 @@
 		"attach_4" : "DRACO RESERVE EXTENDED II",
 		"attach_5" : "FANG HOVERPOINT ELO",
 		"recommended_sight_shooting_style" : null
+	},
+    {
+		"id" : 98,
+		"weapon_name" : "RK-9",
+		"mod" : "FULL AUTO",
+		"attach_1" : "BOWEN .45 SUPPRESSOR",
+		"attach_2" : "ENVOY FOREGRIP",
+		"attach_3" : "ALLIANCE EXTENDED MAG",
+		"attach_4" : "LETHAL TOOLS ELO OPTIC",
+		"attach_5" : "RK-9 CALIBRATED STRIKE SYSTEM",
+		"recommended_sight_shooting_style" : null
 	}
 ]}

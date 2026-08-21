@@ -659,5 +659,20 @@
 		"attach_8" : "5.45 FMJ",
 		"recommended_sight_shooting_style" : null,
 		"build_code" : "A13-22GC1-8QAEM-8W11"
+	},
+    {
+		"id" : 49,
+		"weapon_name" : "MAMMOTH",
+		"weapon_id" : 3,
+		"attach_1" : "HDR-7.62 SUPPRESSOR",
+		"attach_2" : "FLOWGUARD FOREGRIP",
+		"attach_3" : "ALLIANCE GRIP",
+		"attach_4" : "MALADY EXTENDED MAG",
+		"attach_5" : "ADVANTAGE STOCK",
+		"attach_6" : "CONVERGENCE BOX LASER",
+		"attach_7" : ".300 WM FMJ",
+		"attach_8" : "SIGHT",
+		"recommended_sight_shooting_style" : "LETHAL TOOLS ELO",
+		"build_code" : "L10-21WXL-SVP81-A711"
 	}
 ]}

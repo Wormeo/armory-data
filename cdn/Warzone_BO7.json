@@ -575,5 +575,17 @@
 		"attach_5" : "FANG HOVERPOINT ELO ",
 		"recommended_sight_shooting_style" : null,
 		"build_code" : "A13-2JFA4-GAA7J-TS11"
+	},
+	{
+		"id" : 49,
+		"weapon_name" : "MAMMOTH",
+		"weapon_id" : 2,
+		"attach_1" : "HDR-7.62 SUPPRESSOR",
+		"attach_2" : "15\" GROVEL BARREL",
+		"attach_3" : "DIPLOMATIC GRIP",
+		"attach_4" : ".300 WM OVERPRESSURED",
+		"attach_5" : "SIGHT ",
+		"recommended_sight_shooting_style" : "FANG HOVERPOINT ELO",
+		"build_code" : "L10-2JEWS-SNF5N-SD11"
 	}
 ]}

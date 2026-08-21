@@ -1,21 +1,26 @@
 {
-  "version": "3.2.1",
-  "patch_date": "JULY 20",
+  "version": "3.2.0",
+  "patch_date": "AUGUST 21",
   "notes": {
     "en": [
-      "FIXED CRITICAL ISSUE WITH AEGIS SLIPSTREAM CAUSING PATCHED FILES TO NOT LOAD DESPITE BEING DOWNLOADED"
+      "Added Classes and CAD data for MAMMOTH LMG",
+      "Updated Stats for various weapons"
     ],
-    "de": [
-      "BEHEBUNG EINES KRITISCHEN FEHLERS BEI AEGIS SLIPSTREAM, DER DAZU FÜHRTE, DASS GEPATCHTE DATEIEN TROTZ HERUNTERLADENS NICHT GELADEN WURDEN"
+   "de": [
+    "Klassen und CAD-Daten für MAMMOTH LMG hinzugefügt",
+    "Statistiken für verschiedene Waffen aktualisiert"
     ],
-    "es": [
-      "CORRECCIÓN DE UN PROBLEMA CRÍTICO CON AEGIS SLIPSTREAM QUE CAUSABA QUE LOS ARCHIVOS PARCHEADOS NO SE CARGARAN A PESAR DE HABERSE DESCARGADO"
+   "es": [
+    "Se añadieron clases y datos CAD para la ametralladora ligera MAMMOTH",
+    "Se actualizaron las estadísticas de varias armas"
     ],
-    "fr": [
-      "CORRECTION D'UN PROBLÈME CRITIQUE AVEC AEGIS SLIPSTREAM QUI EMPÊCHAIT LE CHARGEMENT DES FICHIERS PATCHÉS MALGRÉ LEUR TÉLÉCHARGEMENT"
+   "fr": [
+    "Ajout des classes et des données CAO pour le fusil mitrailleur MAMMOTH",
+    "Mise à jour des statistiques de plusieurs armes"
     ],
-    "zh": [
-      "修复了导致修补后的文件尽管已下载但无法加载的 AEGIS SLIPSTREAM 严重问题"
+   "zh": [
+    "添加了 MAMMOTH 轻机枪的类与 CAD 数据",
+    "更新了多种武器的属性数据"
     ]
   }
 }

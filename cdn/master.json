@@ -7,6 +7,41 @@
       "ZH": "606-T 镂空握把",
       "DE": "606-T SKELETT-GRIFF"
     },
+    "ALLIANCE GRIP": {
+      "EN": "ALLIANCE GRIP",
+      "FR": "POIGNÉE ALLIANCE",
+      "ES": "EMPUMAURA ALIANZA",
+      "ZH": "联盟握把",
+      "DE": "ALLIANZ-GRIFF"
+    },
+    "PAPAL GRIP": {
+      "EN": "PAPAL GRIP",
+      "FR": "POIGNÉE PAPALE",
+      "ES": "EMPUÑADURA PAPAL",
+      "ZH": "教皇握把",
+      "DE": "PÄPSTLICHER GRIFF"
+    },
+    "LEACH GRIP": {
+      "EN": "LEACH GRIP",
+      "FR": "POIGNÉESANGSUE",
+      "ES": "EMPUÑADURA SANGUIJUELA",
+      "ZH": "水蛭握把",
+      "DE": "EGEL-GRIFF"
+    },
+    "DIPLOMATIC GRIP": {
+      "EN": "DIPLOMATIC GRIP",
+      "FR": "POIGNÉE DIPLOMATIQUE",
+      "ES": "EMPUÑADURA DIPLOMÁTICA",
+      "ZH": "外交握把",
+      "DE": "DIPLOMATEN-GRIFF"
+    },
+    "FURTIVE GRIP": {
+      "EN": "FURTIVE GRIP",
+      "FR": "POIGNÉE FURTIVE",
+      "ES": "EMPUÑADURA FURTIVA",
+      "ZH": "鬼祟握把",
+      "DE": "HEIMLICHER GRIFF"
+    },
     "A1-C CONTROL GRIP": {
       "EN": "A1-C CONTROL GRIP",
       "FR": "POIGNÉE DE CONTRÔLE A1-C",
@@ -6789,6 +6824,41 @@
       "ES": "CULATA DE MOVILIDAD 2R",
       "ZH": "2R 机动枪托",
       "DE": "2R-MOBILITÄTSSCHULTERSTÜTZE"
+    },
+    "ADVANTAGE STOCK": {
+      "EN": "ADVANTAGE STOCK",
+      "FR": "CROSSE AVANTAGE",
+      "ES": "CULATA VENTAJA",
+      "ZH": "优势枪托",
+      "DE": "VORTEIL-SCHAFT"
+    },
+    "DELIGHT STOCK": {
+      "EN": "DELIGHT STOCK",
+      "FR": "CROSSE DÉLICE",
+      "ES": "CULATA DELEITE",
+      "ZH": "愉悦枪托",
+      "DE": "DONNER-SCHAFT"
+    },
+    "ENTANGLE STOCK": {
+      "EN": "ENTANGLE STOCK",
+      "FR": "CROSSE CHEVETRE",
+      "ES": "CULATA ENREDO",
+      "ZH": "缠绕枪托",
+      "DE": "VERSTRICKUNGS-SCHAFT"
+    },
+    "REDUNDANCY STOCK": {
+      "EN": "REDUNDANCY STOCK",
+      "FR": "CROSSE REDONDANCE",
+      "ES": "CULATA REDUNDANCIA",
+      "ZH": "冗余枪托",
+      "DE": "REDUNDANZ-SCHAFT"
+    },
+    "TUNER STOCK": {
+      "EN": "TUNER STOCK",
+      "FR": "CROSSE TUNER",
+      "ES": "CULATA SINTONIZADORA",
+      "ZH": "调谐器枪托",
+      "DE": "TUNER-SCHAFT"
     },
     "COMMAND D-15 RECOIL REDUCTION PAD": {
       "EN": "COMMAND D-15 RECOIL REDUCTION PAD",
@@ -15707,6 +15777,48 @@
       "ZH": ".357 加长型",
       "DE": ".357 LANG"
     },
+    "RK-9 CALIBRATED STRIKE SYSTEM": {
+      "EN": "RK-9 CALIBRATED STRIKE SYSTEM",
+      "FR": "SYSTÈME DE FRAPPE ÉTALONNÉ RK-9",
+      "ES": "SISTEMA DE ATAQUE CALIBRADO RK-9",
+      "ZH": "RK-9 校准打击系统",
+      "DE": "RK-9 KALIBRIERTES SCHLAGSYSTEM"
+    },
+     "14\" MFS CASCADE BARREL": {
+     "EN": "14\" MFS CASCADE BARREL",
+     "FR": "CANON CASCADE MFS 14\"",
+     "ES": "CAÑÓN EN CASCADA MFS DE 14\"",
+     "ZH": "14\" MFS 瀑布枪管",
+     "DE": "14\" MFS KASKADEN-LAUF"
+   },
+   "18\" TEMPERED BARREL": {
+     "EN": "18\" TEMPERED BARREL",
+     "FR": "CANON TREMPÉ 18\"",
+     "ES": "CAÑÓN TEMPLADO DE 18\"",
+     "ZH": "18\" 淬火枪管",
+     "DE": "18\" GEHÄRTETER LAUF"
+   },
+   "17\" AMBITION BARREL": {
+     "EN": "17\" AMBITION BARREL",
+     "FR": "CANON AMBITION 17\"",
+     "ES": "CAÑÓN AMBICIÓN DE 17\"",
+     "ZH": "17\" 雄心枪管",
+     "DE": "17\" AMBITION-LAUF"
+   },
+   "16\" CARBONIC BARREL": {
+     "EN": "16\" CARBONIC BARREL",
+     "FR": "CANON CARBONIQUE 16\"",
+     "ES": "CAÑÓN CARBÓNICO DE 16\"",
+     "ZH": "16\" 碳化枪管",
+     "DE": "16\" KOHLENSTOFF-LAUF"
+   },
+   "15\" GROVEL BARREL": {
+     "EN": "15\" GROVEL BARREL",
+     "FR": "CANON GROVEL 15\"",
+     "ES": "CAÑÓN RASTRERO DE 15\"",
+     "ZH": "15\" 卑劣枪管",
+     "DE": "15\" DEMUTS-LAUF"
+   },
     "M8A1 AUTOSTRIKE BARREL": {
       "EN": "M8A1 AUTOSTRIKE BARREL",
       "FR": "CANON AUTOSTRIKE M8A1",
@@ -25448,6 +25560,34 @@
       "ES": "CARGADOR .300 BLACKOUT DE 30 CARTUCHOS",
       "ZH": ".300 BLACKOUT 30发弹匣",
       "DE": ".300 BLACKOUT 30-SCHUSS-MAGAZIN"
+    },
+    "MALADY EXTENDED MAG": {
+      "EN": "MALADY EXTENDED MAG",
+      "FR": "CHARGEUR GRANDE CAPACITÉ MALADY",
+      "ES": "CARGADOR AMPLIADO ENFERMEDAD",
+      "ZH": "弊病加长弹匣",
+      "DE": "SEUCHEN-ERWEITERTES MAGAZIN"
+    },
+    "RECONFIGURE EXTENDED MAG": {
+      "EN": "RECONFIGURE EXTENDED MAG",
+      "FR": "CHARGEUR GRANDE CAPACITÉ RECONFIGURATION",
+      "ES": "CARGADOR AMPLIADO RECONFIGURACIÓN",
+      "ZH": "重构加长弹匣",
+      "DE": "REKONFIGURATION-ERWEITERTES MAGAZIN"
+    },
+    "DOWNSIZE FAST MAG": {
+      "EN": "DOWNSIZE FAST MAG",
+      "FR": "CHARGEUR RAPIDE RÉDUIT",
+      "ES": "CARGADOR RÁPIDO REDUCIDO",
+      "ZH": "紧凑快速弹匣",
+      "DE": "REDUZIERTES SCHNELLLADEMAGAZIN"
+    },
+    "FORMATIVE BELT FED": {
+      "EN": "FORMATIVE BELT FED",
+      "FR": "ALIMENTATION PAR BANDE FORMATIVE",
+      "ES": "ALIMENTACIÓN POR CINTA FORMATIVA",
+      "ZH": "塑形弹链供弹",
+      "DE": "FORMATIVE GURTZUFUHR"
     },
     "SKULL SPLITTER EXTENDED MAG": {
       "EN": "SKULL SPLITTER EXTENDED MAG",
