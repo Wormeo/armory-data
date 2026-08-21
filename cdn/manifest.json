@@ -11,7 +11,7 @@
     "Endgame_BO7.json": 1,
     "Field_Upgrades.json": 0,
     "Field_Upgrades_Master.json": 0,
-    "master.json": 1,
+    "master.json": 2,
     "META.json": 1,
     "Multiplayer_BO7.json": 1,
     "Multiplayer_Cold_War.json": 0,
@@ -34,7 +34,7 @@
     "Premium_Users.json": 0,
     "Premium_Stats.json": 1,
     "MinMax.json": 0,
-    "hotfixes.json": 2,
+    "hotfixes.json": 3,
     "translations.json": 0
   }
 }
