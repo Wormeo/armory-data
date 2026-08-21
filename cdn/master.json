@@ -4373,6 +4373,20 @@
       "ZH": "AGENCY 收束器",
       "DE": "AGENCY-CHOKE"
     },
+    "HDR-7.62 SUPPRESSOR": {
+      "EN": "HDR-7.62 SUPPRESSOR",
+      "FR": "SILENCIEUX HDR-7.62",
+      "ES": "SILENCIADOR HDR-7.62",
+      "ZH": "HDR-7.62 消音器",
+      "DE": "HDR-7.62-SCHALLDÄMPFER"
+    },
+    "BOWEN MODULATOR 7.62": {
+      "EN": "BOWEN MODULATOR 7.62",
+      "FR": "MODULATEUR BOWEN 7.62",
+      "ES": "MODULADOR BOWEN 7.62",
+      "ZH": "BOWEN 7.62 调制器",
+      "DE": "BOWEN-MODULATOR 7.62"
+    },
     "SURGE 45 SUPPRESSOR": {
       "EN": "SURGE 45 SUPPRESSOR",
       "FR": "SILENCIEUX SURGE 45",
