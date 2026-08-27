@@ -7,6 +7,41 @@
       "ZH": "606-T 镂空握把",
       "DE": "606-T SKELETT-GRIFF"
     },
+    "ACQUIT GRIP": {
+      "EN": "ACQUIT GRIP",
+      "FR": "POIGNÉE ACQUITTEMENT",
+      "ES": "EMPUÑADURA ABSOLUCIÓN",
+      "ZH": "无罪握把",
+      "DE": "FREISPRUCH-GRIFF"
+    },
+    "NATIONAL GRIP": {
+      "EN": "NATIONAL GRIP",
+      "FR": "POIGNÉE NATIONALE",
+      "ES": "EMPUÑADURA NACIONAL",
+      "ZH": "国家握把",
+      "DE": "NATIONALER GRIFF"
+    },
+    "SIXTUS GRIP": {
+      "EN": "SIXTUS GRIP",
+      "FR": "POIGNÉE SIXTUS",
+      "ES": "EMPUÑADURA SIXTUS",
+      "ZH": "西斯廷握把",
+      "DE": "SIXTUS-GRIFF"
+    },
+    "TRESS GRIP": {
+      "EN": "TRESS GRIP",
+      "FR": "POIGNÉE TRESSE",
+      "ES": "EMPUÑADURA TRENZA",
+      "ZH": "发辫握把",
+      "DE": "FLECHTEN-GRIFF"
+    },
+    "EXPOSURE GRIP": {
+      "EN": "EXPOSURE GRIP",
+      "FR": "POIGNÉE EXPOSITION",
+      "ES": "EMPUÑADURA EXPOSICIÓN",
+      "ZH": "暴露握把",
+      "DE": "BELICHTUNG-GRIFF"
+    },
     "ALLIANCE GRIP": {
       "EN": "ALLIANCE GRIP",
       "FR": "POIGNÉE ALLIANCE",
@@ -2928,6 +2963,20 @@
       "ZH": "SVD 全自动模组",
       "DE": "SVD VOLLAUTOMATIK-MOD"
     },
+    "8X57MM OVERPRESSURED": {
+      "EN": "8X57MM OVERPRESSURED",
+      "FR": "8X57MM SURPRESSION",
+      "ES": "8X57MM SOBREPRESIÓN",
+      "ZH": "8x57mm 高压弹",
+      "DE": "8X57MM ÜBERDRUCK"
+    },
+      "8X57MM FMJ": {
+      "EN": "8X57MM FMJ",
+      "FR": "8X57MM FMJ",
+      "ES": "8X57MM FMJ",
+      "ZH": "8x57mm 全金属披针弹",
+      "DE": "8X57MM VOLLMANTEL"
+    },
     "RAZOR 9MM WILDFIRE CONVERSION KIT": {
       "EN": "RAZOR 9MM WILDFIRE CONVERSION KIT",
       "FR": "KIT DE CONVERSION RAZOR 9MM WILDFIRE",
@@ -4372,20 +4421,6 @@
       "ES": "ESTRANGULADOR AGENCY",
       "ZH": "AGENCY 收束器",
       "DE": "AGENCY-CHOKE"
-    },
-    "HDR-7.62 SUPPRESSOR": {
-      "EN": "HDR-7.62 SUPPRESSOR",
-      "FR": "SILENCIEUX HDR-7.62",
-      "ES": "SILENCIADOR HDR-7.62",
-      "ZH": "HDR-7.62 消音器",
-      "DE": "HDR-7.62-SCHALLDÄMPFER"
-    },
-    "BOWEN MODULATOR 7.62": {
-      "EN": "BOWEN MODULATOR 7.62",
-      "FR": "MODULATEUR BOWEN 7.62",
-      "ES": "MODULADOR BOWEN 7.62",
-      "ZH": "BOWEN 7.62 调制器",
-      "DE": "BOWEN-MODULATOR 7.62"
     },
     "SURGE 45 SUPPRESSOR": {
       "EN": "SURGE 45 SUPPRESSOR",
@@ -6838,6 +6873,41 @@
       "ES": "CULATA DE MOVILIDAD 2R",
       "ZH": "2R 机动枪托",
       "DE": "2R-MOBILITÄTSSCHULTERSTÜTZE"
+    },
+    "MFS AMBILATERAL STOCK": {
+      "EN": "MFS AMBILATERAL STOCK",
+      "FR": "CROSSE AMBIDEXTRE MFS",
+      "ES": "CULATA AMBIDIESTRA MFS",
+      "ZH": "MFS 双向托",
+      "DE": "MFS AMBILATERALER SCHAFT"
+    },
+    "TERMINATION STOCK": {
+      "EN": "TERMINATION STOCK",
+      "FR": "CROSSE TERMINAISON",
+      "ES": "CULATA TERMINACIÓN",
+      "ZH": "终结枪托",
+      "DE": "TERMINATION-SCHAFT"
+    },
+    "ABANDON STOCK": {
+      "EN": "ABANDON STOCK",
+      "FR": "CROSSE ABANDON",
+      "ES": "CULATA ABANDONO",
+      "ZH": "抛弃枪托",
+      "DE": "ABANDON-SCHAFT"
+    },
+    "SOMERSET STOCK": {
+      "EN": "SOMERSET STOCK",
+      "FR": "CROSSE SOMERSET",
+      "ES": "CULATA SOMERSET",
+      "ZH": "萨默塞特枪托",
+      "DE": "SOMERSET-SCHAFT"
+    },
+    "PLAGIARY STOCK": {
+      "EN": "PLAGIARY STOCK",
+      "FR": "CROSSE PLAGIAT",
+      "ES": "CULATA PLAGIO",
+      "ZH": "剽窃枪托",
+      "DE": "PLAGIAT-SCHAFT"
     },
     "ADVANTAGE STOCK": {
       "EN": "ADVANTAGE STOCK",
@@ -15791,6 +15861,41 @@
       "ZH": ".357 加长型",
       "DE": ".357 LANG"
     },
+    "18\" ELAPSE BARREL": {
+      "EN": "18\" ELAPSE BARREL",
+      "FR": "CANON ÉCOULÉ 18\"",
+      "ES": "CAÑÓN TRANSCURSO DE 18\"",
+      "ZH": "18\" 流逝枪管",
+      "DE": "18\"-VERLAUF-LAUF"
+    },
+    "17\" STRIDENT BARREL": {
+      "EN": "17\" STRIDENT BARREL",
+      "FR": "CANON STRIDENT 17\"",
+      "ES": "CAÑÓN ESTRIDENTE DE 17\"",
+      "ZH": "17\" 刺耳枪管",
+      "DE": "17\"-STRIDENT-LAUF"
+    },
+    "15\" CONSTELLATION BARREL": {
+      "EN": "15\" CONSTELLATION BARREL",
+      "FR": "CANON CONSTELLATION 15\"",
+      "ES": "CAÑÓN CONSTELACIÓN DE 15\"",
+      "ZH": "15\" 星座枪管",
+      "DE": "15\"-STERNBILD-LAUF"
+    },
+    "14\" PRESSURE BARREL": {
+     "EN": "14\" PRESSURE BARREL",
+      "FR": "CANON PRESSION 14\"",
+      "ES": "CAÑÓN PRESIÓN DE 14\"",
+      "ZH": "14\" 压力枪管",
+      "DE": "14\"-DRUCK-LAUF"
+    },
+    "16\" BANDOLIER BARREL": {
+      "EN": "16\" BANDOLIER BARREL",
+      "FR": "CANON CARTOUCHIÈRE 16\"",
+      "ES": "CAÑÓN CANANA DE 16\"",
+      "ZH": "16\" 弹药带枪管",
+      "DE": "16\"-PATRONENGURT-LAUF"
+    },
     "RK-9 CALIBRATED STRIKE SYSTEM": {
       "EN": "RK-9 CALIBRATED STRIKE SYSTEM",
       "FR": "SYSTÈME DE FRAPPE ÉTALONNÉ RK-9",
@@ -23949,6 +24054,41 @@
       "ZH": "JAK SLASH",
       "DE": "JAK SLASH"
     },
+    "SEVERANCE HANDGUARD": {
+      "EN": "SEVERANCE HANDGUARD",
+      "FR": "GARDE-MAIN RUPTURE",
+      "ES": "GUARDAMANOS INDEMNIZACIÓN",
+      "ZH": "遣散护木",
+      "DE": "ABFINDUNGS-HANDSCHUTZ"
+    },
+    "RIF HANDGUARD": {
+      "EN": "RIF HANDGUARD",
+      "FR": "GARDE-MAIN RIF",
+      "ES": "GUARDAMANOS RIF",
+      "ZH": "RIF 护木",
+      "DE": "RIF-HANDSCHUTZ"
+    },
+    "INCEPTION HANDGUARD": {
+      "EN": "INCEPTION HANDGUARD",
+      "FR": "GARDE-MAIN INCEPTION",
+      "ES": "GUARDAMANOS ORIGEN",
+      "ZH": "起始护木",
+      "DE": "INCEPTION-HANDSCHUTZ"
+    },
+    "RETAINER HANDGUARD": {
+      "EN": "RETAINER HANDGUARD",
+      "FR": "GARDE-MAIN RETENUE",
+      "ES": "GUARDAMANOS RETENCIÓN",
+      "ZH": "固定护木",
+      "DE": "HALTERUNGS-HANDSCHUTZ"
+    },
+    "DIRGE HANDGUARD": {
+      "EN": "DIRGE HANDGUARD",
+      "FR": "GARDE-MAIN CHANT FUNÈBRE",
+      "ES": "GUARDAMANOS ENDECHA",
+      "ZH": "挽歌护木",
+      "DE": "TRAUERLIED-HANDSCHUTZ"
+    },
     "XR-3 ION VULCAN MINIGUN": {
       "EN": "XR-3 ION VULCAN MINIGUN",
       "FR": "MINIGUN VULCAN À IONS XR-3",
@@ -25574,6 +25714,27 @@
       "ES": "CARGADOR .300 BLACKOUT DE 30 CARTUCHOS",
       "ZH": ".300 BLACKOUT 30发弹匣",
       "DE": ".300 BLACKOUT 30-SCHUSS-MAGAZIN"
+    },
+    "OVERBOOK EXTENDED MAG": {
+      "EN": "OVERBOOK EXTENDED MAG",
+      "FR": "CHARGEUR DE GRANDE CAPACITÉ SURRÉSERVATION",
+      "ES": "CARGADOR AMPLIADO SOBRERRESERVA",
+      "ZH": "超订加长弹匣",
+      "DE": "ÜBERBUCHUNG ERWEITERTES MAGAZIN"
+    },
+    "DEBASE EXTENDED MAG": {
+      "EN": "DEBASE EXTENDED MAG",
+      "FR": "CHARGEUR DE GRANDE CAPACITÉ DÉPRÉCIATION",
+      "ES": "CARGADOR AMPLIADO DEVALUACIÓN",
+      "ZH": "贬值加长弹匣",
+      "DE": "ABWERTUNG ERWEITERTES MAGAZIN"
+    },
+    "VAS EXPRESS FAST MAG": {
+      "EN": "VAS EXPRESS FAST MAG",
+      "FR": "CHARGEUR RAPIDE VAS EXPRESS",
+      "ES": "CARGADOR RÁPIDO VAS EXPRESS",
+      "ZH": "VAS 快速弹匣",
+      "DE": "VAS EXPRESS SCHNELLMAGAZIN"
     },
     "MALADY EXTENDED MAG": {
       "EN": "MALADY EXTENDED MAG",
