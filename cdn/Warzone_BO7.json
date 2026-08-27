@@ -587,5 +587,17 @@
 		"attach_5" : "SIGHT ",
 		"recommended_sight_shooting_style" : "FANG HOVERPOINT ELO",
 		"build_code" : "L10-2JEWS-SNF5N-SD11"
+	},
+    {
+		"id" : 50,
+		"weapon_name" : "FG42",
+		"weapon_id" : 2,
+		"attach_1" : "VAS 8MM SUPPRESSOR",
+		"attach_2" : "16\" BANDOLIER BARREL",
+		"attach_3" : "RIF HANDGUARD",
+		"attach_4" : "OVERBOOK EXTENDED MAG",
+		"attach_5" : "FANG HOVERPOINT ELO ",
+		"recommended_sight_shooting_style" : null,
+		"build_code" : "A16-34FIR-4RTYU-11"
 	}
 ]}

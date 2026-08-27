@@ -674,5 +674,20 @@
 		"attach_8" : "SIGHT ",
 		"recommended_sight_shooting_style" : "LETHAL TOOLS ELO",
 		"build_code" : "L10-615LM-LCZJ1-1"
+	},
+    {
+		"id" : 49,
+		"weapon_name" : "FG42",
+		"weapon_id" : 4,
+		"attach_1" : "REDWELL 8MM COMPENSATOR",
+		"attach_2" : "15\" CONSTELLATION BARREL",
+		"attach_3" : "DIRGE HANDGUARD",
+		"attach_4" : "OVERBOOK EXTENDED MAG",
+		"attach_5" : "ACQUIT GRIP",
+		"attach_6" : "MFS AMBILATER STOCK",
+		"attach_7" : "3MW MOTION STRIKE LASER",
+		"attach_8" : "FANG HOVERPOINT ELO",
+		"recommended_sight_shooting_style" : null,
+		"build_code" : "A16-34I1Q-34YFL-11"
 	}
 ]}
