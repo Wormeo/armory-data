@@ -4422,6 +4422,34 @@
       "ZH": "AGENCY 收束器",
       "DE": "AGENCY-CHOKE"
     },
+    "VAS 8MM SUPPRESSOR": {
+      "EN": "VAS 8MM SUPPRESSOR",
+      "FR": "SILENCIEUX VAS 8MM",
+      "ES": "SILENCIADOR VAS DE 8MM",
+      "ZH": "VAS 8mm 消音器",
+      "DE": "VAS 8MM SCHALLDÄMPFER"
+    },
+    "REDWELL 8MM COMPENSATOR": {
+      "EN": "REDWELL 8MM COMPENSATOR",
+      "FR": "COMPENSATEUR REDWELL 8MM",
+      "ES": "COMPENSADOR REDWELL DE 8MM",
+      "ZH": "REDWELL 8mm 补偿器",
+      "DE": "REDWELL 8MM KOMPENSATOR"
+    },
+    "RL-8MM BRAKE": {
+      "EN": "RL-8MM BRAKE",
+      "FR": "FREIN DE BOUCHE RL-8MM",
+      "ES": "FRENO DE BOCA RL-8MM",
+      "ZH": "RL-8mm 制退器",
+      "DE": "RL-8MM MÜNDUNGSBREMSE"
+    },
+    "TITAN-R 8MM COMPENSATOR": {
+      "EN": "TITAN-R 8MM COMPENSATOR",
+      "FR": "COMPENSATEUR TITAN-R 8MM",
+      "ES": "COMPENSADOR TITAN-R DE 8MM",
+     "ZH": "TITAN-R 8mm 补偿器",
+      "DE": "TITAN-R 8MM KOMPENSATOR"
+    },
     "SURGE 45 SUPPRESSOR": {
       "EN": "SURGE 45 SUPPRESSOR",
       "FR": "SILENCIEUX SURGE 45",
