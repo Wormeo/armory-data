@@ -196,13 +196,13 @@
 		"id" : 17,
 		"weapon_name" : "RYDEN 45K",
 		"weapon_id" : 2,
-		"attach_1" : "BOWEN .45 SUPPRESSOR \/ BOUNTY GRIP",
-		"attach_2" : "10.5\" SLIM-MOD BARREL",
-		"attach_3" : "LATERAL PRECISION GRIP",
+		"attach_1" : "10.5\" SLIM-MOD BARREL",
+		"attach_2" : "FLOWGUARD FOREGRIP",
+		"attach_3" : "SKE-02 STOCK",
 		"attach_4" : "TORCH EXTENDED MAG",
 		"attach_5" : "SIGHT",
-		"recommended_sight_shooting_style" : "LETHAL TOOLS ELO",
-		"build_code" : "S01-AV4PX-Y9W61-1"
+		"recommended_sight_shooting_style" : "FANG HOVERPOINT ELO",
+		"build_code" : "S01-2W27K-V4QBM-11"
 	},
 	{
 		"id" : 18,
