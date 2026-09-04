@@ -23,7 +23,7 @@
     "Single.json": 0,
     "Special.json": 1,
     "Warzone_BO6.json": 0,
-    "Warzone_BO7.json": 2,
+    "Warzone_BO7.json": 3,
     "Warzone_MW3_MW2.json": 0,
     "Zombies_BO7.json": 3,
     "Zombies_Cold_War.json": 0,
@@ -32,7 +32,7 @@
     "Perks.json": 0,
     "Perks_Master.json": 0,
     "Premium_Users.json": 0,
-    "Premium_Stats.json": 1,
+    "Premium_Stats.json": 2,
     "MinMax.json": 0,
     "hotfixes.json": 3,
     "translations.json": 0
