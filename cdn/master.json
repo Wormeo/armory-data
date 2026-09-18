@@ -7,6 +7,69 @@
       "ZH": "606-T 镂空握把",
       "DE": "606-T SKELETT-GRIFF"
     },
+    "EAM ALACRITY GRIP": {
+      "EN": "EAM ALACRITY GRIP",
+      "FR": "POIGNÉE ALACRITY EAM",
+      "ES": "EMPUNYADURA EAM ALACRITY",
+      "ZH": "EAM 敏捷握把",
+      "DE": "EAM-ALACRITY-GRIFF"
+    },
+    "DISPOSED GRIP": {
+      "EN": "DISPOSED GRIP",
+      "FR": "POIGNÉE DISPOSED",
+      "ES": "EMPUNYADURA DISPOSED",
+      "ZH": "倾斜握把",
+      "DE": "DISPOSED-GRIFF"
+    },
+    "SYNDICATE GRIP": {
+      "EN": "SYNDICATE GRIP",
+      "FR": "POIGNÉE SYNDICATE",
+      "ES": "EMPUNYADURA SYNDICATE",
+      "ZH": "辛迪加握把",
+      "DE": "SYNDICATE-GRIFF"
+    },
+    "ARGOS PRECISION GRIP": {
+      "EN": "ARGOS PRECISION GRIP",
+      "FR": "POIGNÉE DE PRÉCISION ARGOS",
+      "ES": "EMPUNYADURA DE PRECISIÓN ARGOS",
+      "ZH": "阿耳戈斯精密握把",
+      "DE": "ARGOS-PRÄZISIONSGRIFF"
+    },
+    "PONTIL-246 GRIP": {
+      "EN": "PONTIL-246 GRIP",
+      "FR": "POIGNÉE PONTIL-246",
+      "ES": "EMPUNYADURA PONTIL-246",
+      "ZH": "蓬蒂尔-246 握把",
+      "DE": "PONTIL-246-GRIFF"
+    },
+    "MFS TACTICAL COMMAND GRIP": {
+      "EN": "MFS TACTICAL COMMAND GRIP",
+      "FR": "POIGNÉE COMMANDE TACTIQUE MFS",
+      "ES": "EMPUNYADURA TÁCTICA DE MANDO MFS",
+      "ZH": "MFS 战术指挥握把",
+      "DE": "MFS-TAKTIK-FÜHRUNGSGRIFF"
+    },
+    "GREAVES PACIFY GRIP": {
+      "EN": "GREAVES PACIFY GRIP",
+      "FR": "POIGNÉE PACIFY GREAVES",
+      "ES": "EMPUNYADURA GREAVES PACIFY",
+      "ZH": "格里夫斯安抚握把",
+      "DE": "GREAVES-PACIFY-GRIFF"
+    },
+    "PLUSHED POISE GRIP": {
+      "EN": "PLUSHED POISE GRIP",
+      "FR": "POIGNÉE PLUSHED POISE",
+      "ES": "EMPUNYADURA PLUSHED POISE",
+      "ZH": "绒面平衡握把",
+      "DE": "PLUSHED-POISE-GRIFF"
+    },
+    "VENERATE RUBBER GRIP": {
+      "EN": "VENERATE RUBBER GRIP",
+      "FR": "POIGNÉE CAOUTCHOUC VENERATE",
+      "ES": "EMPUNYADURA DE GOMA VENERATE",
+      "ZH": "尊崇橡胶握把",
+      "DE": "VENERATE-GUMMIGRIFF"
+    },
     "ACQUIT GRIP": {
       "EN": "ACQUIT GRIP",
       "FR": "POIGNÉE ACQUITTEMENT",
@@ -6901,6 +6964,62 @@
       "ES": "CULATA DE MOVILIDAD 2R",
       "ZH": "2R 机动枪托",
       "DE": "2R-MOBILITÄTSSCHULTERSTÜTZE"
+    },
+    "NO STOCK": {
+      "EN": "NO STOCK",
+      "FR": "SANS CROSSE",
+      "ES": "SIN CULATA",
+      "ZH": "无枪托",
+      "DE": "KEINE SCHULTERSTÜTZE"
+    },
+    "ASHFORD HEAVY STOCK": {
+      "EN": "ASHFORD HEAVY STOCK",
+      "FR": "CROSSE LOURDE ASHFORD",
+      "ES": "CULATA PESADA ASHFORD",
+      "ZH": "阿什福德重型枪托",
+      "DE": "ASHFORD-SCHWERGEWICHT-SCHULTERSTÜTZE"
+    },
+    "LILITH TACTICAL STOCK": {
+      "EN": "LILITH TACTICAL STOCK",
+      "FR": "CROSSE TACTIQUE LILITH",
+      "ES": "CULATA TÁCTICA LILITH",
+      "ZH": "莉莉丝战术枪托",
+      "DE": "LILITH-TAKTIK-SCHULTERSTÜTZE"
+    },
+    "DISSIDENT FULL STOCK": {
+      "EN": "DISSIDENT FULL STOCK",
+      "FR": "CROSSE PLEINE DISSIDENT",
+      "ES": "CULATA COMPLETA DISSIDENT",
+      "ZH": "持异见者全枪托",
+      "DE": "DISSIDENT-VOLLSCHULTERSTÜTZE"
+    },
+    "MONARCH MOVE PAD": {
+      "EN": "MONARCH MOVE PAD",
+      "FR": "PLAQUE DE CROSSE MONARCH MOVE",
+      "ES": "CANANA MONARCH MOVE",
+      "ZH": "君主机动托垫",
+      "DE": "MONARCH-MOVE-SCHULTERPOLSTER"
+    },
+    "GREAVES VALOUR PAD": {
+      "EN": "GREAVES VALOUR PAD",
+      "FR": "PLAQUE DE CROSSE GREAVES VALOUR",
+      "ES": "CANANA GREAVES VALOUR",
+      "ZH": "格里夫斯英勇托垫",
+      "DE": "GREAVES-VALOUR-SCHULTERPOLSTER"
+    },
+    "FLOUT HEAVY PAD": {
+      "EN": "FLOUT HEAVY PAD",
+      "FR": "PLAQUE DE CROSSE LOURDE FLOUT",
+      "ES": "CANANA PESADA FLOUT",
+      "ZH": "弗劳特重型托垫",
+      "DE": "FLOUT-SCHWERES-SCHULTERPOLSTER"
+    },
+    "TACTICIAN SPREAD PAD": {
+      "EN": "TACTICIAN SPREAD PAD",
+      "FR": "PLAQUE DE CROSSE TACTICIAN SPREAD",
+      "ES": "CANANA TACTICIAN SPREAD",
+      "ZH": "战术家散布托垫",
+      "DE": "TACTICIAN-SPREAD-SCHULTERPOLSTER"
     },
     "MFS AMBILATERAL STOCK": {
       "EN": "MFS AMBILATERAL STOCK",
@@ -15888,6 +16007,76 @@
       "ES": ".357 LARGO",
       "ZH": ".357 加长型",
       "DE": ".357 LANG"
+    },
+    "18.5\" MFS FALLEN ANGEL BARREL": {
+      "EN": "18.5\" MFS FALLEN ANGEL BARREL",
+      "FR": "CANON MFS FALLEN ANGEL 18,5\"",
+      "ES": "CAÑÓN MFS FALLEN ANGEL DE 18.5\"",
+      "ZH": "18.5英寸 MFS 堕落天使枪管",
+      "DE": "18,5\"-MFS-FALLEN-ANGEL-LAUF"
+    },
+    "14.6\" NOCTURNAL-VI BARREL": {
+      "EN": "14.6\" NOCTURNAL-VI BARREL",
+      "FR": "CANON NOCTURNAL-VI 14,6\"",
+      "ES": "CAÑÓN NOCTURNAL-VI DE 14.6\"",
+      "ZH": "14.6英寸 夜行者-VI 枪管",
+      "DE": "14,6\"-NOCTURNAL-VI-LAUF"
+    },
+    "13.4\" QUORUM VELOCITY BARREL": {
+      "EN": "13.4\" QUORUM VELOCITY BARREL",
+      "FR": "CANON QUORUM VELOCITY 13,4\"",
+      "ES": "CAÑÓN QUORUM VELOCITY DE 13.4\"",
+      "ZH": "13.4英寸 法定人数初速枪管",
+      "DE": "13,4\"-QUORUM-VELOCITY-LAUF"
+    },
+    "12\" CIVET BARREL": {
+      "EN": "12\" CIVET BARREL",
+      "FR": "CANON CIVET 12\"",
+      "ES": "CAÑÓN CIVET DE 12\"",
+      "ZH": "12英寸 麝猫枪管",
+      "DE": "12\"-CIVET-LAUF"
+  },
+    "10.9\" GAMBOL LIGHT BARREL": {
+      "EN": "10.9\" GAMBOL LIGHT BARREL",
+      "FR": "CANON LÉGER GAMBOL 10,9\"",
+      "ES": "CAÑÓN LIGERO GAMBOL DE 10.9\"",
+      "ZH": "10.9英寸 跃动轻型枪管",
+      "DE": "10,9\"-GAMBOL-LEICHTLAUF"
+    },
+    "11.5\" IMPALER BARREL": {
+      "EN": "11.5\" IMPALER BARREL",
+      "FR": "CANON IMPALER 11,5\"",
+      "ES": "CAÑÓN IMPALER DE 11.5\"",
+      "ZH": "11.5英寸 穿刺者枪管",
+      "DE": "11,5\"-IMPALER-LAUF"
+  },
+    "20\" SUFFERANCE BARREL": {
+      "EN": "20\" SUFFERANCE BARREL",
+      "FR": "CANON SUFFERANCE 20\"",
+      "ES": "CAÑÓN SUFFERANCE DE 20\"",
+      "ZH": "20英寸 忍耐枪管",
+      "DE": "20\"-SUFFERANCE-LAUF"
+    },
+    "16\" CEPHEID BARREL": {
+      "EN": "16\" CEPHEID BARREL",
+      "FR": "CANON CEPHEID 16\"",
+      "ES": "CAÑÓN CEPHEID DE 16\"",
+      "ZH": "16英寸 仙王座枪管",
+      "DE": "16\"-CEPHEID-LAUF"
+    },
+    "15.6\" BOWEN TALARION BARREL": {
+      "EN": "15.6\" BOWEN TALARION BARREL",
+      "FR": "CANON BOWEN TALARION 15,6\"",
+      "ES": "CAÑÓN BOWEN TALARION DE 15.6\"",
+      "ZH": "15.6英寸 博恩塔拉里昂枪管",
+      "DE": "15,6\"-BOWEN-TALARION-LAUF"
+    },
+    "17\" VAS ORSINO BARREL": {
+      "EN": "17\" VAS ORSINO BARREL",
+      "FR": "CANON VAS ORSINO 17\"",
+      "ES": "CAÑÓN VAS ORSINO DE 17\"",
+      "ZH": "17英寸 瓦斯奥尔西诺枪管",
+      "DE": "17\"-VAS-ORSINO-LAUF"
     },
     "18\" ELAPSE BARREL": {
       "EN": "18\" ELAPSE BARREL",
@@ -25742,6 +25931,48 @@
       "ES": "CARGADOR .300 BLACKOUT DE 30 CARTUCHOS",
       "ZH": ".300 BLACKOUT 30发弹匣",
       "DE": ".300 BLACKOUT 30-SCHUSS-MAGAZIN"
+    },
+    "VERUCA EXTENDED MAG": {
+      "EN": "VERUCA EXTENDED MAG",
+      "FR": "CHARGEUR ÉTENDU VERUCA",
+      "ES": "CARGADOR EXTENDIDO VERUCA",
+      "ZH": "维鲁卡扩容弹匣",
+      "DE": "VERUCA-ERWEITERTES-MAGAZIN"
+    },
+    "FULCRUM FLIP MAG": {
+      "EN": "FULCRUM FLIP MAG",
+      "FR": "CHARGEUR DOUBLE FULCRUM",
+      "ES": "CARGADOR DOBLE FULCRUM",
+      "ZH": "支点双联弹匣",
+      "DE": "FULCRUM-WECHSEL-MAGAZIN"
+    },
+    "CARUS CAPACITY MAG": {
+      "EN": "CARUS CAPACITY MAG",
+      "FR": "CHARGEUR HAUTE CAPACITÉ CARUS",
+      "ES": "CARGADOR DE CAPACIDAD CARUS",
+      "ZH": "卡鲁斯大容量弹匣",
+      "DE": "CARUS-KAPAZITÄTS-MAGAZIN"
+    },
+    "ERUDITE EXTENDED MAG": {
+      "EN": "ERUDITE EXTENDED MAG",
+      "FR": "CHARGEUR ÉTENDU ERUDITE",
+      "ES": "CARGADOR EXTENDIDO ERUDITE",
+      "ZH": "博学扩容弹匣",
+      "DE": "ERUDITE-ERWEITERTES-MAGAZIN"
+    },
+    "DAPPLE CAPACITY MAG": {
+      "EN": "DAPPLE CAPACITY MAG",
+      "FR": "CHARGEUR CAPACITÉ DAPPLE",
+      "ES": "CARGADOR DE CAPACIDAD DAPPLE",
+      "ZH": "斑驳大容量弹匣",
+      "DE": "DAPPLE-KAPAZITÄTS-MAGAZIN"
+    },
+    "REGALIA FAST MAG": {
+      "EN": "REGALIA FAST MAG",
+      "FR": "CHARGEUR RAPIDE REGALIA",
+      "ES": "CARGADOR RÁPIDO REGALIA",
+      "ZH": "王权快速弹匣",
+      "DE": "REGALIA-SCHNELLMAGAZIN"
     },
     "OVERBOOK EXTENDED MAG": {
       "EN": "OVERBOOK EXTENDED MAG",
