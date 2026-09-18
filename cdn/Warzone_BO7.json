@@ -578,26 +578,62 @@
 	},
 	{
 		"id" : 49,
-		"weapon_name" : "MAMMOTH",
-		"weapon_id" : 2,
-		"attach_1" : "HDR-7.62 SUPPRESSOR",
-		"attach_2" : "15\" GROVEL BARREL",
-		"attach_3" : "DIPLOMATIC GRIP",
-		"attach_4" : ".300 WM OVERPRESSURED",
-		"attach_5" : "SIGHT ",
-		"recommended_sight_shooting_style" : "FANG HOVERPOINT ELO",
-		"build_code" : "L10-2JEWS-SNF5N-SD11"
-	},
-    {
-		"id" : 50,
 		"weapon_name" : "FG42",
 		"weapon_id" : 2,
 		"attach_1" : "VAS 8MM SUPPRESSOR",
 		"attach_2" : "16\" BANDOLIER BARREL",
 		"attach_3" : "RIF HANDGUARD",
 		"attach_4" : "OVERBOOK EXTENDED MAG",
-		"attach_5" : "FANG HOVERPOINT ELO ",
-		"recommended_sight_shooting_style" : null,
+		"attach_5" : "FANG HOVERPOINT ELO",
+		"recommended_sight_shooting_style" : "",
 		"build_code" : "A16-34FIR-4RTYU-11"
+	},
+	{
+		"id" : 50,
+		"weapon_name" : "GREMLIN",
+		"weapon_id" : 2,
+		"attach_1" : "BOWEN .45 SUPPRESSOR",
+		"attach_2" : "9\" MFS CESTUS BARREL",
+		"attach_3" : "SABER GRIP",
+		"attach_4" : "LEAPER FAST MAG",
+		"attach_5" : "VOTARY STOCK",
+		"recommended_sight_shooting_style" : "HIPFIRE",
+		"build_code" : "S16-78VE7-Q11"
+	},
+	{
+		"id" : 51,
+		"weapon_name" : "MAMMOTH",
+		"weapon_id" : 2,
+		"attach_1" : "HDR-762 SUPPRESSOR",
+		"attach_2" : "15\" GROVEL BARREL",
+		"attach_3" : "DIPLOMATIC GRIP",
+		"attach_4" : ".300 WM FMJ",
+		"attach_5" : "SIGHT",
+		"recommended_sight_shooting_style" : "FANG HOVERPOINT ELO",
+		"build_code" : "L10-2JEWS-SNF5N-SD11"
+	},
+	{
+		"id" : 52,
+		"weapon_name" : "VMP",
+		"weapon_id" : 2,
+		"attach_1" : "BOWEN .45 SUPPRESSOR",
+		"attach_2" : "11.5\" IMPALER BARREL",
+		"attach_3" : "FORCE STABILIZER HANDSTOP",
+		"attach_4" : "ERUDITE EXTENDED MAG",
+		"attach_5" : "RECOIL SYNC UNIT",
+		"recommended_sight_shooting_style" : null,
+		"build_code" : "S14-7YDJE-SY31"
+	},
+	{
+		"id" : 53,
+		"weapon_name" : "TR51 PARA",
+		"weapon_id" : 2,
+		"attach_1" : "GREAVES TI-762",
+		"attach_2" : "17\" VAS ORSINO BARREL",
+		"attach_3" : "7.62 NATO OVERPRESSURED",
+		"attach_4" : "FULCRUM FLIP MAG",
+		"attach_5" : "SIGHT",
+		"recommended_sight_shooting_style" : "REDWELL 30-S 2X + COVERT RETICLE",
+		"build_code" : "A17-21XVE-G868Y-ZF11"
 	}
 ]}

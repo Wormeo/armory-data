@@ -660,8 +660,38 @@
 		"recommended_sight_shooting_style" : null,
 		"build_code" : "A13-2JFA4-M77HK-MS11"
 	},
-    {
+	{
 		"id" : 48,
+		"weapon_name" : "FG42",
+		"weapon_id" : 4,
+		"attach_1" : "REDWELL 8MM COMPENSATOR",
+		"attach_2" : "15\" CONSTELLATION BARREL",
+		"attach_3" : "DIRGE HANDGUARD",
+		"attach_4" : "OVERBOOK EXTENDED MAG",
+		"attach_5" : "ACQUIT GRIP",
+		"attach_6" : "MFS AMBILATER STOCK",
+		"attach_7" : "3MW MOTION STRIKE LASER",
+		"attach_8" : "FANG HOVERPOINT ELO",
+		"recommended_sight_shooting_style" : "",
+		"build_code" : "A16-34I1Q-34YFL-11"
+	},
+	{
+		"id" : 49,
+		"weapon_name" : "GREMLIN",
+		"weapon_id" : 4,
+		"attach_1" : "LTI STENTORIAN BRAKE",
+		"attach_2" : "9\" MFS CESTUS BARREL",
+		"attach_3" : "TERSE GRIP",
+		"attach_4" : "LEAPER FAST MAG",
+		"attach_5" : "VOTARY STOCK",
+		"attach_6" : "CONVERGENCE BOX LASER",
+		"attach_7" : "BUFFER SPRING",
+		"attach_8" : "",
+		"recommended_sight_shooting_style" : "HIPFIRE",
+		"build_code" : "S16-3MHRD-IXW31"
+	},
+	{
+		"id" : 50,
 		"weapon_name" : "MAMMOTH",
 		"weapon_id" : 4,
 		"attach_1" : "LTI STENTORIAN BRAKE",
@@ -671,23 +701,38 @@
 		"attach_5" : "ALLIANCE GRIP",
 		"attach_6" : "ADVANTAGE STOCK",
 		"attach_7" : "3MW MOTION STRIKE LASER",
-		"attach_8" : "SIGHT ",
+		"attach_8" : "SIGHT",
 		"recommended_sight_shooting_style" : "LETHAL TOOLS ELO",
 		"build_code" : "L10-615LM-LCZJ1-1"
 	},
-    {
-		"id" : 49,
-		"weapon_name" : "FG42",
+	{
+		"id" : 51,
+		"weapon_name" : "VMP",
 		"weapon_id" : 4,
-		"attach_1" : "REDWELL 8MM COMPENSATOR",
-		"attach_2" : "15\" CONSTELLATION BARREL",
-		"attach_3" : "DIRGE HANDGUARD",
-		"attach_4" : "OVERBOOK EXTENDED MAG",
-		"attach_5" : "ACQUIT GRIP",
-		"attach_6" : "MFS AMBILATERAL STOCK",
+		"attach_1" : "HAWKER HYBRID .45",
+		"attach_2" : "11.5\" IMPALER BARREL",
+		"attach_3" : "SAPPER GUARD HANDGUARD",
+		"attach_4" : "ERUDITE EXTENDED MAG",
+		"attach_5" : "VENERATE RUBBER GRIP",
+		"attach_6" : "TACTICIAN SPREAD PAD",
+		"attach_7" : "CONVERGENCE BOX LASER",
+		"attach_8" : "9MM PARABELLUM FMJ",
+		"recommended_sight_shooting_style" : null,
+		"build_code" : "S14-21WSP-G5UXU-TS11"
+	},
+	{
+		"id" : 52,
+		"weapon_name" : "TR51 PARA",
+		"weapon_id" : 4,
+		"attach_1" : "LTI STENTORIAN BRAKE",
+		"attach_2" : "16\" CEPHEID BARREL",
+		"attach_3" : "EAM STEADY-90 GRIP",
+		"attach_4" : "VERUCA EXTENDED MAG",
+		"attach_5" : "EAM ALACRITY GRIP",
+		"attach_6" : "TALISMAN LIGHT STOCK",
 		"attach_7" : "3MW MOTION STRIKE LASER",
 		"attach_8" : "FANG HOVERPOINT ELO",
 		"recommended_sight_shooting_style" : null,
-		"build_code" : "A16-34I1Q-34YFL-11"
+		"build_code" : "A17-34TKD-BIEGF-11"
 	}
 ]}

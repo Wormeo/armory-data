@@ -484,37 +484,37 @@
 		"id" : 82,
 		"game" : "BO7",
 		"class_type" : "CLOSE RANGE (WZ)",
-		"weapon" : "1. RYDEN 45K"
+		"weapon" : "1. VMP"
 	},
 	{
 		"id" : 83,
 		"game" : "BO7",
 		"class_type" : "CLOSE RANGE (WZ)",
-		"weapon" : "2. VST"
+		"weapon" : "2. REV-46"
 	},
 	{
 		"id" : 84,
 		"game" : "BO7",
 		"class_type" : "CLOSE RANGE (WZ)",
-		"weapon" : "3. MPC-25"
+		"weapon" : "3. RYDEN 45K"
 	},
 	{
 		"id" : 85,
 		"game" : "BO7",
 		"class_type" : "CLOSE RANGE (WZ)",
-		"weapon" : "4. REV-46"
+		"weapon" : "4. VST"
 	},
 	{
 		"id" : 86,
 		"game" : "BO7",
 		"class_type" : "CLOSE RANGE (WZ)",
-		"weapon" : "5. CBRS-3"
+		"weapon" : "5. MPC-25"
 	},
 	{
 		"id" : 87,
 		"game" : "BO7",
 		"class_type" : "LONG RANGE (WZ)",
-		"weapon" : "1. AN-94"
+		"weapon" : "1. VOYAK KT-3"
 	},
 	{
 		"id" : 88,
@@ -538,6 +538,6 @@
 		"id" : 91,
 		"game" : "BO7",
 		"class_type" : "LONG RANGE (WZ)",
-		"weapon" : "5. AK-27"
+		"weapon" : "5. AN-94"
 	}
 ]}

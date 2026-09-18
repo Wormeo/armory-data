@@ -492,28 +492,64 @@
 		"recommended_sight_shooting_style" : "FANG HOVERPOINT ELO",
 		"build_code" : "A13-34FDC-QTI2B-11"
 	},
-    {
+	{
 		"id" : 46,
+		"weapon_name" : "FG42",
+		"weapon_id" : 1,
+		"attach_1" : "15\" CONSTELLATION BARREL",
+		"attach_2" : "MFS AMBILATER STOCK",
+		"attach_3" : "ACQUIT GRIP",
+		"attach_4" : "OVERBOOK EXTENDED MAG",
+		"attach_5" : "LETHAL TOOLS ELO",
+		"recommended_sight_shooting_style" : "",
+		"build_code" : "A16-AUY5V-Z6QD1-1"
+	},
+	{
+		"id" : 47,
+		"weapon_name" : "GREMLIN",
+		"weapon_id" : 1,
+		"attach_1" : "MONOLITHIC SUPPRESSOR",
+		"attach_2" : "9\" MFS CESTUS BARREL",
+		"attach_3" : "VOTARY STOCK",
+		"attach_4" : "LEAPER FAST MAG",
+		"attach_5" : "CONVERGENCE BOX LASER",
+		"recommended_sight_shooting_style" : "HIPFIRE",
+		"build_code" : null
+	},
+	{
+		"id" : 48,
 		"weapon_name" : "MAMMOTH",
 		"weapon_id" : 1,
 		"attach_1" : "16\" CARBONIC BARREL",
 		"attach_2" : "LATERAL PRECISION GRIP",
 		"attach_3" : "ALLIANCE GRIP",
 		"attach_4" : "DOWNSIZE FAST MAG",
-		"attach_5" : "LETHAL TOOLS ELO OPTIC",
-		"recommended_sight_shooting_style" : null,
+		"attach_5" : "LETHAL TOOLS ELO",
+		"recommended_sight_shooting_style" : "",
 		"build_code" : "L10-5XMTE-ULVN1-1"
 	},
-    {
-		"id" : 47,
-		"weapon_name" : "FG42",
+	{
+		"id" : 49,
+		"weapon_name" : "VMP",
 		"weapon_id" : 1,
-		"attach_1" : "15\" CONSTELLATION BARREL",
-		"attach_2" : "ACQUIT GRIP",
-		"attach_3" : "MFS AMBILATERAL STOCK",
-		"attach_4" : "OVERBOOK EXTENDED MAG",
-		"attach_5" : "LETHAL TOOLS ELO",
+		"attach_1" : "HAWKER SERIES 45",
+		"attach_2" : "14.6\" NOCTURNAL-VI BARREL",
+		"attach_3" : "FORCE STABILIZER HANDSTOP",
+		"attach_4" : "REGALIA FAST MAG",
+		"attach_5" : "RECOIL SYNC UNIT",
 		"recommended_sight_shooting_style" : null,
-		"build_code" : "A16-AUY5V-Z6QD1-1"
+		"build_code" : "S14-7YI0J-1H31"
+	},
+	{
+		"id" : 50,
+		"weapon_name" : "TR51 PARA",
+		"weapon_id" : 1,
+		"attach_1" : "GREAVES TI-762",
+		"attach_2" : "20\" SUFFERANCE BARREL",
+		"attach_3" : "7.62 NATO OVERPRESSURED",
+		"attach_4" : "FULCRUM FLIP MAG",
+		"attach_5" : "SIGHT",
+		"recommended_sight_shooting_style" : "FANG HOVERPOINT ELO",
+		"build_code" : "A17-21YVV-R4K39-SU11"
 	}
 ]}

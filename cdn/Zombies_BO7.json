@@ -660,11 +660,41 @@
 		"recommended_sight_shooting_style" : null,
 		"build_code" : "A13-22GC1-8QAEM-8W11"
 	},
-    {
+	{
 		"id" : 49,
+		"weapon_name" : "FG42",
+		"weapon_id" : 3,
+		"attach_1" : "VAS 8MM SUPPRESSOR",
+		"attach_2" : "16\" BANDOLIER BARREL",
+		"attach_3" : "DIRGE HANDGUARD",
+		"attach_4" : "OVERBOOK EXTENDED MAG",
+		"attach_5" : "ACQUIT GRIP",
+		"attach_6" : "MFS AMBILATER STOCK",
+		"attach_7" : "CONVERGENCE BOX LASER",
+		"attach_8" : "8X57MM FMJ",
+		"recommended_sight_shooting_style" : "",
+		"build_code" : "A16-21WSR-Z6CP5-I711"
+	},
+	{
+		"id" : 50,
+		"weapon_name" : "GREMLIN",
+		"weapon_id" : 3,
+		"attach_1" : "BOWEN .45 SUPPRESSOR",
+		"attach_2" : "9\" MFS CESTUS BARREL",
+		"attach_3" : "TERSE GRIP",
+		"attach_4" : "LEAPER FAST MAG",
+		"attach_5" : "VOTARY STOCK",
+		"attach_6" : "CONVERGENCE BOX LASER",
+		"attach_7" : "9MM PARABELLUM FMJ",
+		"attach_8" : "",
+		"recommended_sight_shooting_style" : "HIPFIRE",
+		"build_code" : "S16-2JD6R-RZF2P-8W11"
+	},
+	{
+		"id" : 51,
 		"weapon_name" : "MAMMOTH",
 		"weapon_id" : 3,
-		"attach_1" : "HDR-7.62 SUPPRESSOR",
+		"attach_1" : "HDR-762 SUPPRESSOR",
 		"attach_2" : "FLOWGUARD FOREGRIP",
 		"attach_3" : "ALLIANCE GRIP",
 		"attach_4" : "MALADY EXTENDED MAG",
@@ -675,19 +705,34 @@
 		"recommended_sight_shooting_style" : "LETHAL TOOLS ELO",
 		"build_code" : "L10-21WXL-SVP81-A711"
 	},
-    {
-		"id" : 50,
-		"weapon_name" : "FG42",
+	{
+		"id" : 52,
+		"weapon_name" : "VMP",
 		"weapon_id" : 3,
-		"attach_1" : "VAS 8MM SUPPRESSOR",
-		"attach_2" : "16\" BANDOLIER BARREL",
-		"attach_3" : "DIRGE HANDGUARD",
-		"attach_4" : "OVERBOOK EXTENDED MAG",
-		"attach_5" : "ACQUIT GRIP",
-		"attach_6" : "MFS AMBILATERAL STOCK",
+		"attach_1" : "BOWEN .45 SUPPRESSOR",
+		"attach_2" : "11.5\" IMPALER BARREL",
+		"attach_3" : "SAPPER GUARD HANDSTOP",
+		"attach_4" : "ERUDITE EXTENDED MAG",
+		"attach_5" : "VENERATE RUBBER GRIP",
+		"attach_6" : "MONARCH MOVE STOCK",
 		"attach_7" : "CONVERGENCE BOX LASER",
-		"attach_8" : "8X57MM FMJ",
+		"attach_8" : "9MM PARABELLUM FMJ",
 		"recommended_sight_shooting_style" : null,
-		"build_code" : "A16-B6HTD-8G551-1"
+		"build_code" : "S14-21WSP-G5NNF-KB11"
+	},
+	{
+		"id" : 53,
+		"weapon_name" : "TR51 PARA",
+		"weapon_id" : 3,
+		"attach_1" : "GREAVES TI-762",
+		"attach_2" : "15.6\" BOWEN TALARION BARREL",
+		"attach_3" : "M335-X FRAG \/ EAM STEADY-90 GRIP",
+		"attach_4" : "VERUCA EXTENDED MAG",
+		"attach_5" : "EAM ALACRITY GRIP",
+		"attach_6" : "TALISMAN LIGHT STOCK",
+		"attach_7" : "CONVERGENCE BOX LASER",
+		"attach_8" : "7.62 NATO FMJ",
+		"recommended_sight_shooting_style" : null,
+		"build_code" : "A17-2JD6X-65938-6B11"
 	}
 ]}

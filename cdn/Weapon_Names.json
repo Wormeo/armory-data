@@ -1919,5 +1919,17 @@
 		"weapon_name" : "MAMMOTH",
 		"weapon_image" : "https:\/\/res.cloudinary.com\/dctlpj7fg\/image\/upload\/v1787329954\/MAMMOTH_vo2zbp.png",
 		"game_image" : "https:\/\/res.cloudinary.com\/dctlpj7fg\/image\/upload\/v1763257596\/BO7_mzvevs.png"
+	},
+	{
+		"id" : 321,
+		"weapon_name" : "VMP",
+		"weapon_image" : "https:\/\/res.cloudinary.com\/dctlpj7fg\/image\/upload\/v1789692916\/VMP_juneua.png",
+		"game_image" : "https:\/\/res.cloudinary.com\/dctlpj7fg\/image\/upload\/v1763257596\/BO7_mzvevs.png"
+	},
+	{
+		"id" : 322,
+		"weapon_name" : "TR51 PARA",
+		"weapon_image" : "https:\/\/res.cloudinary.com\/dctlpj7fg\/image\/upload\/v1789711560\/TR51_obpvsl.png",
+		"game_image" : "https:\/\/res.cloudinary.com\/dctlpj7fg\/image\/upload\/v1763257596\/BO7_mzvevs.png"
 	}
 ]}
